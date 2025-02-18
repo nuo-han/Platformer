@@ -8,20 +8,24 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\state machine system\\player state\\the player state\\playerclimbslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\state machine system\\player state\\the player state\\playerclimbslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
 >>>>>>> Stashed changes
 =======
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\state machine system\\player state\\the player state\\playerclimbslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\state machine system\\player state\\the player state\\playerclimbslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\input\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\input\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\state machine system\\player state\\the player state\\playerclimbslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\state machine system\\player state\\the player state\\playerclimbslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> Stashed changes
     },
     {
 =======
@@ -29,12 +33,12 @@
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\mobileplatform\\mobileplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\trap\\trapdoor\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\trapdoor\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\trap\\mobileplatform\\mobileplatformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\mobileplatform\\mobileplatformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\mobileplatform\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\mobileplatform\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\trapdoor\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\trapdoor\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\elevator\\elevatorunlockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,10 +109,69 @@
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\trapdoor\\trapdoor_canclose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\lightcity\\boss\\golem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrap\\golemplatformer\\golemplatformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrap\\golemplatformer\\golemplatformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemplayerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemplayerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\elevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\elevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\player\\playera\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\player\\playera\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\mobileplatform\\mobileplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\mobileplatform\\mobileplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\input\\playerbinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\input\\playerbinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -214,22 +277,19 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
+=======
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
+=======
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\playera\\spell\\lightballspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playera\\spell\\lightballspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -336,66 +396,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Trap\\Platform\\PlatformController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> Stashed changes
 =======
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\lightcity\\boss\\golem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemplayerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemplayerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\lightcity\\boss\\golemtrap\\golemplatformer\\golemplatformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrap\\golemplatformer\\golemplatformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrap\\golemtrap_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager_ceiling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\elevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\elevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golemtrapmanager\\golemtrapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\player\\playera\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\player\\playera\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\mobileplatform\\mobileplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\mobileplatform\\mobileplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> Stashed changes
@@ -409,22 +409,178 @@
         {
 <<<<<<< Updated upstream
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+<<<<<<< Updated upstream
+=======
+          "DockedHeight": 200,
+>>>>>>> Stashed changes
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+              "DocumentIndex": 3,
+=======
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
+=======
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
+=======
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
               "Title": "LightBallSpell.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightBallSpell.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerA\\Spell\\LightBallSpell.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightBallSpell.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerA\\Spell\\LightBallSpell.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAkwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:19:54.847Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerInputActions.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerInputActions.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInputActions.cs",
+              "RelativeToolTip": "Assets\\Script\\Input\\PlayerInputActions.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:37:24.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerClimbSlip.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
+              "RelativeToolTip": "Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:04:53.53Z",
 =======
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GolemPlatformer.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemPlatformer\\GolemPlatformer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemPlatformer\\GolemPlatformer.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemPlatformer\\GolemPlatformer.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemPlatformer\\GolemPlatformer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T06:18:31.201Z",
+>>>>>>> Stashed changes
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+<<<<<<< Updated upstream
+              "Title": "LightHealingSpell.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:41:23.174Z"
+=======
+              "Title": "GolemTrap_Ceiling.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ceiling.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ceiling.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ceiling.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ceiling.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA2wC8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T16:47:22.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GolemTrap_Wall.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Wall.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Wall.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Wall.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:17:53.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GolemTrap_Ground.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ground.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ground.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ground.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:14:17.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GolemTrapManager_Ground.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ground.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ground.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ground.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ground.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:33:02.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Golem.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\Golem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\Golem.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\Golem.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\Golem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:03:41.759Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+<<<<<<< Updated upstream
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\HealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Character\\HealthController.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\HealthController.cs",
+              "RelativeToolTip": "Assets\\Script\\Character\\HealthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+              "WhenOpened": "2025-01-29T05:34:57.758Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "MobilePlatformController.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatformController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatformController.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatformController.cs",
+              "RelativeToolTip": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatformController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:22:36.737Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -433,28 +589,10 @@
               "RelativeDocumentMoniker": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
               "RelativeToolTip": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< Updated upstream
               "WhenOpened": "2025-02-03T12:21:31.924Z",
               "EditorCaption": ""
-=======
-              "WhenOpened": "2025-01-28T17:19:54.847Z",
-              "IsPinned": true
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlatformController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\PlatformController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\MobilePlatform\\PlatformController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\PlatformController.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\MobilePlatform\\PlatformController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:20:40.003Z"
             },
             {
               "$type": "Document",
@@ -518,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DoorController.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\TrapDoor\\DoorController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Trap\\TrapDoor\\DoorController.cs",
@@ -526,10 +664,7 @@
               "RelativeToolTip": "Assets\\Script\\Trap\\TrapDoor\\DoorController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T08:33:16.604Z",
-              "EditorCaption": ""
-=======
->>>>>>> Stashed changes
+              "WhenOpened": "2025-02-02T08:33:16.604Z"
             },
             {
               "$type": "Document",
@@ -554,10 +689,21 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T11:33:40.21Z"
+=======
+              "Title": "GolemPlayerDetector.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemPlayerDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemPlayerDetector.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemPlayerDetector.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemPlayerDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:11:05.312Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+<<<<<<< Updated upstream
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Character\\Player\\PlayerController.cs",
@@ -578,11 +724,41 @@
               "ViewState": "AgIAADcAAAAAAAAAAAAswBwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T07:21:49.116Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+<<<<<<< Updated upstream
+=======
+              "WhenOpened": "2025-01-29T05:34:57.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+>>>>>>> Stashed changes
+=======
+              "WhenOpened": "2025-01-29T05:34:57.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+>>>>>>> Stashed changes
+=======
+              "WhenOpened": "2025-01-29T05:34:57.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+>>>>>>> Stashed changes
+              "Title": "SpellManager.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\SpellManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerA\\SpellManager.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\SpellManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerA\\SpellManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+=======
               "Title": "Platform_OneWay1.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Platform_OneWay1.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Map\\Platform_OneWay1.cs",
@@ -613,17 +789,55 @@
               "RelativeToolTip": "Assets\\Script\\Trap\\Platform\\PlatformController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:34:52.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T15:34:52.532Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+=======
+              "Title": "GolemTrapManager_Wall.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Wall.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Wall.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Wall.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:12:06.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GolemTrapManager_Ceiling.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ceiling.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ceiling.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ceiling.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ceiling.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:06:15.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GolemTrapManager.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:32:40.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+>>>>>>> Stashed changes
               "Title": "Elevator.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\Elevator.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Trap\\Elevator\\Elevator.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\Elevator.cs",
               "RelativeToolTip": "Assets\\Script\\Trap\\Elevator\\Elevator.cs",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T13:32:19.728Z"
@@ -655,11 +869,21 @@
             {
               "$type": "Document",
               "DocumentIndex": 17,
+=======
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:18:33.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+>>>>>>> Stashed changes
               "Title": "SpellManager.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerA\\SpellManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Character\\Player\\PlayerA\\SpellManager.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerA\\SpellManager.cs",
               "RelativeToolTip": "Assets\\Script\\Character\\Player\\PlayerA\\SpellManager.cs",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T08:57:29.815Z"
@@ -779,118 +1003,11 @@
               "DocumentMoniker": "C:\\unity projects\\Platformer\\Assets\\Script\\Manager\\GameManager.cs",
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\Manager\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T17:19:54.847Z",
-              "IsPinned": true
+              "WhenOpened": "2025-02-02T03:25:48.28Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 0,
-              "Title": "PlayerClimbSlip.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
-              "RelativeToolTip": "Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T12:04:53.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LightHealingSpell.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
-              "RelativeToolTip": "Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwCIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T05:41:23.174Z",
-=======
-              "Title": "GolemPlatformer.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemPlatformer\\GolemPlatformer.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemPlatformer\\GolemPlatformer.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemPlatformer\\GolemPlatformer.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemPlatformer\\GolemPlatformer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T06:18:31.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GolemTrap_Ceiling.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ceiling.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ceiling.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ceiling.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ceiling.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA2wC8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T16:47:22.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GolemTrap_Wall.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Wall.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Wall.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Wall.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Wall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:17:53.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GolemTrap_Ground.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ground.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ground.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ground.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrap\\GolemTrap_Ground.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T07:14:17.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GolemTrapManager_Ground.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ground.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ground.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ground.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ground.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T06:33:02.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Golem.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\Golem.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\Golem.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\Golem.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\Golem.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAswE4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T08:03:41.759Z",
->>>>>>> Stashed changes
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-<<<<<<< Updated upstream
-=======
               "DocumentIndex": 27,
               "Title": "PlayerAirJump.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerAirJump.cs",
@@ -898,123 +1015,6 @@
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerAirJump.cs",
               "RelativeToolTip": "Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerAirJump.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
-=======
-              "Title": "GolemPlayerDetector.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemPlayerDetector.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemPlayerDetector.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemPlayerDetector.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemPlayerDetector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T17:11:05.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GolemTrapManager_Wall.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Wall.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Wall.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Wall.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Wall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:12:06.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GolemTrapManager_Ceiling.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ceiling.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ceiling.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ceiling.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager_Ceiling.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T17:06:15.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GolemTrapManager.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\GolemTrapManager\\GolemTrapManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T06:32:40.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Elevator.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\Elevator.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\Elevator\\Elevator.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\Elevator.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\Elevator\\Elevator.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T17:18:33.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SpellManager.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerA\\SpellManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Player\\PlayerA\\SpellManager.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerA\\SpellManager.cs",
-              "RelativeToolTip": "Assets\\Script\\Character\\Player\\PlayerA\\SpellManager.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T06:54:34.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MobilePlatform.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAIwAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T06:49:09.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAiwNkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T06:14:43.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PlayerInput.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerInput.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
-              "RelativeToolTip": "Assets\\Script\\Input\\PlayerInput.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAkwBEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T04:45:44.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Player\\PlayerController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Script\\Character\\Player\\PlayerController.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAAwHAAAAAWAAAAAAAAAA==",
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T14:50:57.879Z"
             },
@@ -1129,11 +1129,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 39,
+=======
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:54:34.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MobilePlatform.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
+              "RelativeToolTip": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:49:09.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+>>>>>>> Stashed changes
               "Title": "EnemyController.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
               "RelativeToolTip": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAJgAAAAAAAAAAADwvwUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T12:24:34.734Z"
@@ -1225,17 +1247,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 45,
->>>>>>> Stashed changes
               "Title": "HealthController.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\HealthController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Character\\HealthController.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\HealthController.cs",
               "RelativeToolTip": "Assets\\Script\\Character\\HealthController.cs",
-<<<<<<< Updated upstream
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T05:34:57.758Z",
-=======
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T12:55:31.22Z"
@@ -1259,38 +1275,10 @@
               "DocumentMoniker": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Enemy State\\The Enemy State\\EnemyJumpUp.cs",
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Enemy State\\The Enemy State\\EnemyJumpUp.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T04:09:01.567Z",
->>>>>>> Stashed changes
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T04:09:01.567Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-              "DocumentIndex": 4,
-=======
-              "DocumentIndex": 5,
->>>>>>> Stashed changes
-=======
-              "DocumentIndex": 5,
->>>>>>> Stashed changes
-=======
-              "DocumentIndex": 5,
->>>>>>> Stashed changes
-              "Title": "SpellManager.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\SpellManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\PlayerA\\SpellManager.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\SpellManager.cs",
-              "RelativeToolTip": "Assets\\Script\\PlayerA\\SpellManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-              "WhenOpened": "2025-01-28T16:16:16.056Z",
-=======
               "DocumentIndex": 48,
               "Title": "EnemyState.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Enemy State\\EnemyState.cs",
@@ -1321,8 +1309,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Enemy State\\The Enemy State\\EnemyDie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:01:01.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T13:01:01.203Z"
             },
             {
               "$type": "Document",
@@ -1332,8 +1319,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Enemy State\\The Enemy State\\EnemyHurt.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T13:00:42.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T13:00:42.979Z"
             },
             {
               "$type": "Document",
@@ -1343,8 +1329,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Enemy State\\The Enemy State\\EnemyAttack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T12:47:58.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T12:47:58.675Z"
             },
             {
               "$type": "Document",
@@ -1366,8 +1351,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Enemy State\\The Enemy State\\EnemyIdle.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T12:43:53.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T12:43:53.176Z"
             },
             {
               "$type": "Document",
@@ -1401,8 +1385,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\Character\\Player\\GroundDetector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:14:35.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T04:14:35.275Z"
             },
             {
               "$type": "Document",
@@ -1411,8 +1394,7 @@
               "DocumentMoniker": "C:\\unity projects\\Platformer\\Assets\\Script\\Character\\Player\\WallDetector.cs",
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\Character\\Player\\WallDetector.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T04:15:09.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T04:15:09.46Z"
             },
             {
               "$type": "Document",
@@ -1421,35 +1403,25 @@
               "DocumentMoniker": "C:\\unity projects\\Platformer\\Assets\\Script\\PlayerA\\SpellManager.cs",
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\PlayerA\\SpellManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:37:33.635Z",
 >>>>>>> Stashed changes
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:16:16.056Z"
             },
             {
               "$type": "Document",
 <<<<<<< Updated upstream
-              "DocumentIndex": 3,
-=======
-              "WhenOpened": "2025-01-28T16:16:16.056Z"
-            },
-            {
-              "$type": "Document",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 5,
 >>>>>>> Stashed changes
 =======
-              "WhenOpened": "2025-01-28T16:16:16.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
 >>>>>>> Stashed changes
 =======
-              "WhenOpened": "2025-01-28T16:16:16.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
 >>>>>>> Stashed changes
               "Title": "Spell.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell.cs",
@@ -1458,11 +1430,7 @@
               "RelativeToolTip": "Assets\\Script\\PlayerA\\Spell.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-              "WhenOpened": "2025-01-28T16:17:20.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T16:17:20.664Z"
 =======
               "DocumentIndex": 67,
               "Title": "PlayerGroundDetector.cs",
@@ -1470,8 +1438,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\Character\\Player\\PlayerGroundDetector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:41:38.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T14:41:38.66Z"
             },
             {
               "$type": "Document",
@@ -1481,8 +1448,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Enemy State\\TheEnemyState\\EnemyIdle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T04:47:28.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T04:47:28.876Z"
             },
             {
               "$type": "Document",
@@ -1492,8 +1458,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Enemy State\\TheEnemyState\\EnemyPatrol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T07:33:47.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T07:33:47.692Z"
             },
             {
               "$type": "Document",
@@ -1503,8 +1468,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\State Machine System\\Base\\IState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T13:49:44.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T13:49:44.01Z"
             },
             {
               "$type": "Document",
@@ -1513,8 +1477,7 @@
               "DocumentMoniker": "C:\\unity projects\\Platformer\\Assets\\Script\\Character\\PlayerController.cs",
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\Character\\PlayerController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T03:34:22.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T03:34:22.942Z"
             },
             {
               "$type": "Document",
@@ -1523,8 +1486,7 @@
               "DocumentMoniker": "C:\\unity projects\\Platformer\\Assets\\ProPlatformer\\_Scripts\\Effects\\EffectComponent.cs",
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\ProPlatformer\\_Scripts\\Effects\\EffectComponent.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T05:21:35.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T05:21:35.096Z"
             },
             {
               "$type": "Document",
@@ -1533,8 +1495,7 @@
               "DocumentMoniker": "C:\\unity projects\\Platformer\\Assets\\State Machine System\\Base\\StateMachine.cs",
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\State Machine System\\Base\\StateMachine.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T14:01:56.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T14:01:56.15Z"
             },
             {
               "$type": "Document",
@@ -1544,8 +1505,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Player State\\ThePlayerState\\PlayerIdle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T03:42:40.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T03:42:40.355Z"
             },
             {
               "$type": "Document",
@@ -1555,8 +1515,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\Character\\PlayerGroundDetector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T15:08:30.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T15:08:30.824Z"
             },
             {
               "$type": "Document",
@@ -1566,8 +1525,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\Character\\PlayerWallDetector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T15:09:06.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T15:09:06.644Z"
             },
             {
               "$type": "Document",
@@ -1589,8 +1547,7 @@
               "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\State Machine System\\Player State\\ThePlayerState\\PlayerRun.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T03:46:17.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T03:46:17.345Z"
             },
             {
               "$type": "Document",
@@ -1602,13 +1559,33 @@
               "WhenOpened": "2025-01-24T15:51:47.021Z"
 >>>>>>> Stashed changes
 =======
-              "WhenOpened": "2025-01-28T16:17:20.664Z"
->>>>>>> Stashed changes
-=======
-              "WhenOpened": "2025-01-28T16:17:20.664Z"
->>>>>>> Stashed changes
-=======
-              "WhenOpened": "2025-01-28T16:17:20.664Z"
+              "ViewState": "AgIAAH4AAAAAAAAAAAAiwNkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:14:43.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerInput.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Script\\Input\\PlayerInput.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:45:44.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Character\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwHAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T04:44:50.776Z"
 >>>>>>> Stashed changes
             }
           ]

@@ -63,47 +63,25 @@
     <Compile Include="Assets\Script\State Machine System\Player State\PlayerStateMachine.cs" />
     <Compile Include="Assets\Script\Character\PlayerCornerCorrect.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerCoyoteTime.cs" />
-<<<<<<< Updated upstream
-=======
-    <Compile Include="Assets\Script\Character\WallDetector.cs" />
-<<<<<<< Updated upstream
-    <Compile Include="Assets\Script\Input\PlayerAInput.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Wall.cs" />
     <Compile Include="Assets\Script\Trap\ArrowTrap\Arrow.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerA\SpellManager.cs" />
-    <Compile Include="Assets\Script\State Machine System\Enemy State\The Enemy State\Normal Enemy\EnemyHurt.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Ceiling.cs" />
     <Compile Include="Assets\Script\Trap\TrapDoor\TrapDoor_CannotClose.cs" />
->>>>>>> Stashed changes
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerWalk.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemPlayerDetector.cs" />
     <Compile Include="Assets\Script\Character\PlayerGroundDetector.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerRun.cs" />
     <Compile Include="Assets\Script\PlayerA\Spell\LightBallSpell.cs" />
     <Compile Include="Assets\Script\PlayerA\Spell\LightHealingSpell.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerCrouch.cs" />
-<<<<<<< Updated upstream
     <Compile Include="Assets\Script\PlayerA\SpellManager.cs" />
-    <Compile Include="Assets\Script\State Machine System\Base\IState.cs" />
-=======
-=======
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Wall.cs" />
-    <Compile Include="Assets\Script\Input\PlayerA\PlayerAInput.cs" />
-    <Compile Include="Assets\Script\Trap\ArrowTrap\Arrow.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerA\SpellManager.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Ceiling.cs" />
-    <Compile Include="Assets\Script\Trap\TrapDoor\TrapDoor_CannotClose.cs" />
-    <Compile Include="Assets\Script\Character\CornerDetector.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemPlayerDetector.cs" />
->>>>>>> Stashed changes
-    <Compile Include="Assets\Script\Character\Player\PlayerB\Defense.cs" />
     <Compile Include="Assets\Script\Trap\FragilePlatform\FragilePlatform.cs" />
     <Compile Include="Assets\Script\State Machine System\Base\IState.cs" />
     <Compile Include="Assets\Script\Trap\SpikeTrap\SpikeTrap.cs" />
     <Compile Include="Assets\Script\Trap\SpikeTrap\SpikeTrap_Transmit.cs" />
-    <Compile Include="Assets\Script\State Machine System\Enemy State\The Enemy State\Normal Enemy\EnemyJumpUp.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerB\MeleeAttack.cs" />
     <Compile Include="Assets\Script\Trap\FragilePlatform\FragilePlatform_OneWay.cs" />
     <Compile Include="Assets\Script\Trap\Elevator\ElevatorController.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerController.cs" />
->>>>>>> Stashed changes
     <Compile Include="Assets\Script\Input\PlayerInput.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerFall.cs" />
     <Compile Include="Assets\Script\Trap\ArrowTrap\ArrowTrap.cs" />
@@ -113,45 +91,29 @@
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Wall.cs" />
     <Compile Include="Assets\Script\Audio\SoundEffectsPlayer.cs" />
     <Compile Include="Assets\Script\Input\PlayerInputActions.cs" />
-<<<<<<< Updated upstream
-=======
-    <Compile Include="Assets\Script\State Machine System\Enemy State\EnemyStateMachine.cs" />
     <Compile Include="Assets\Script\Character\Enemy\EnemyController.cs" />
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager.cs" />
     <Compile Include="Assets\Script\Map\Platform_OneWay.cs" />
->>>>>>> Stashed changes
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerIdle.cs" />
     <Compile Include="Assets\Script\Character\PlayerWallDetector.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\PlayerState.cs" />
-<<<<<<< Updated upstream
-=======
     <Compile Include="Assets\Script\Trap\MobilePlatform\MobilePlatformController.cs" />
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Ground.cs" />
     <Compile Include="Assets\Script\Trap\Elevator\ElevatorUnlockController.cs" />
-    <Compile Include="Assets\Script\State Machine System\Enemy State\The Enemy State\Normal Enemy\EnemyChase.cs" />
->>>>>>> Stashed changes
     <Compile Include="Assets\Script\Character\HealthController.cs" />
     <Compile Include="Assets\Script\State Machine System\Base\StateMachine.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerLand.cs" />
     <Compile Include="Assets\Script\Trap\MobilePlatform\MobilePlatform.cs" />
-<<<<<<< Updated upstream
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemPlatformer\GolemPlatformer.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Ceiling.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerClimbHop.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerJumpUp.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Ground.cs" />
     <Compile Include="Assets\Script\Character\PlayerController.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\Golem.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerClimbSlip.cs" />
     <Compile Include="Assets\Script\State Machine System\Player State\The Player State\PlayerAirJump.cs" />
     <Compile Include="Assets\Script\PlayerA\Spell.cs" />
-=======
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemPlatformer\GolemPlatformer.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Ceiling.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerA\Spell.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Ground.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerA\Spell\LightBallSpell.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerB\WeaponSystem.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\Golem.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerA\Spell\LightHealingSpell.cs" />
-    <Compile Include="Assets\Script\Character\Enemy\PlayerDetecter.cs" />
->>>>>>> Stashed changes
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
