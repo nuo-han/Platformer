@@ -6,18 +6,19 @@ using UnityEngine;
 public class Golem : MonoBehaviour
 {
     public bool isRevive=false;
-    public bool beHurt=false;
+    public bool inComa=false;
     public float moveSpeed;
     public float health;
     public float damage;
     public float attackRange;
     public float coolDown;
     public int attackTime;
-    private int currentAttackTime=0;
+    public int currentAttackTime=0;
     public GameObject playerDetector;
     public GolemTrapManager currentTrapManager;
     public List<GolemTrapManager> TrapManagers = new List<GolemTrapManager>();
     public Collider2D attackRangeCollider;
+    public GameObject platform;
     private bool isMoving = false;
     private bool isAttacking = false;
     private Transform player;
@@ -34,6 +35,7 @@ public class Golem : MonoBehaviour
     }
     private void Update()
     {
+        //是否存活
         if (!isRevive)
         {
             if (playerDetector.GetComponent<GolemPlayerDetector>().playerIn)
@@ -42,7 +44,12 @@ public class Golem : MonoBehaviour
             }
             return;
         }
-
+        //是否昏迷
+        if (inComa)
+        {
+            return;
+        }
+        //行动攻击
         sr.flipX = ((transform.position.x - player.position.x) > 0);
         float distance = Vector2.Distance(transform.position, player.position);
         if (coolDownTimer <= 0)
@@ -75,7 +82,7 @@ public class Golem : MonoBehaviour
         if (currentAttackTime==attackTime)
         {
             currentAttackTime = 0;
-            beHurt=true;
+            inComa=true;
             anim.Play("BeHurt");
         }
         TrapManagers[trapIndex].TrapOpen();
@@ -87,5 +94,24 @@ public class Golem : MonoBehaviour
         Vector2 direction = (player.position - transform.position).normalized;
         rb.velocity=new Vector2(direction.x,0).normalized*moveSpeed;
     }
-    
+    //结束昏迷
+    public void ExitComa()
+    { 
+        inComa = false;
+    }
+    public void TakeDamage(float damage)
+    {
+        if (!inComa)
+        {
+            return;
+        }
+        if (health > 0)
+        {
+            health -= damage;
+        }
+        else
+        {
+            anim.Play("Death");
+        }
+    }
 }
