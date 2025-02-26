@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Pool;
 
 public class Arrow : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class Arrow : MonoBehaviour
     public Vector2 direction=new Vector2(1,0); // 箭矢的飞行方向
     private Rigidbody2D rb; // 箭矢的 Rigidbody2D 组件
 
+    public ObjectPool<GameObject> arrowPool;//箭矢对象池
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -24,6 +26,6 @@ public class Arrow : MonoBehaviour
             collision.GetComponent<PlayerController>().PlayerHurt(damage);
         }
 
-        Destroy(gameObject); // 箭矢碰撞后销毁
+        arrowPool.Release(gameObject); // 箭矢碰撞后销毁
     }
 }

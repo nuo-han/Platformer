@@ -3,13 +3,17 @@ using UnityEngine.UI;
 
 public class HealthController : MonoBehaviour
 {
-    [SerializeField] float currentHealth;
-    [SerializeField] float maxHealth;
+    [SerializeField] protected float currentHealth;
+    [SerializeField] protected float maxHealth;
+
+    [HideInInspector] public bool isDie = false;
+    [HideInInspector] public bool isHurt = false;
 
     public Slider healthBar;
-    private void Start()//初始化(测试用)
+    private void Start()
     {
-        UpdateHealth();
+        if (healthBar != null)
+            UpdateHealth();
     }
 
     public void UpdateHealth()
@@ -25,7 +29,8 @@ public class HealthController : MonoBehaviour
         }
         else
             currentHealth -= damage;
-        UpdateHealth();
+        if(healthBar != null) 
+            UpdateHealth();
     }
 
     public void Heal(float heal)
@@ -36,6 +41,7 @@ public class HealthController : MonoBehaviour
         }
         else
             currentHealth += heal;
-        UpdateHealth();
+        if (healthBar != null)
+            UpdateHealth();
     }
 }

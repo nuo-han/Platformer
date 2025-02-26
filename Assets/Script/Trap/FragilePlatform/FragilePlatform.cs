@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class FragilePlatform : MonoBehaviour
 {
+    [SerializeField] VoidEventChannel bossVineVoidEventChannel;
+
     public float timeToBreak = 5;
     public float timeToReappear = 5;
     private bool playerAOnPlatform = false;
@@ -38,6 +40,10 @@ public class FragilePlatform : MonoBehaviour
     }
     private void BreakPlatform()
     {
+        if (CompareTag("BossFragile"))
+        {
+            bossVineVoidEventChannel.Broadcast();
+        }
         isBroken = true;
         timer = 0;
         spriteRenderer.enabled = false;

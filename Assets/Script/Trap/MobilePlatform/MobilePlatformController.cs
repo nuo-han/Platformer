@@ -23,7 +23,7 @@ public class MobliePlatformController : MonoBehaviour
     }
     private void Update()
     {
-        if (playerInSide&& Input.GetKeyDown(KeyCode.DownArrow))
+        if (playerInSide&& Input.GetKeyDown(KeyCode.S))
         {
             if (platform.isMoving==false)
             { platform.isMoving = true; }

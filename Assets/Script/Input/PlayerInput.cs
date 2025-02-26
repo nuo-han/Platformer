@@ -7,35 +7,34 @@ public class PlayerInput : MonoBehaviour
 {
     [SerializeField] float jumpInputBufferTime = 0.5f;
 
+    InputActionMap input;
+
     WaitForSeconds waitJumpInputBufferTime;
 
-    PlayerInputActions playerInputActions;
+    public virtual float AxesX { get; set; }
+    public virtual bool HasJumpInputBuffer {  get; set; }
+    public virtual bool Jump { get; set; }
+    public virtual float Climb { get; set; }
+    public virtual bool StopJump { get; set; }
+    public virtual bool Move => AxesX != 0;
+    public virtual bool Dash { get; set; } = false;
 
-    Vector2 axes => playerInputActions.Gameplay.Axes.ReadValue<Vector2>();
-
-    public bool HasJumpInputBuffer {  get; set; }
-    public bool Jump => playerInputActions.Gameplay.Jump.WasPressedThisFrame();
-    public bool StopJump => playerInputActions.Gameplay.Jump.WasReleasedThisFrame();
-    public bool Move => AxesX != 0f;
-    public float AxesX => axes.x;
-    public bool Run => playerInputActions.Gameplay.Run.ReadValue<float>() > 0;
-    public bool Crouch => playerInputActions.Gameplay.Crouch.ReadValue<float>() > 0;
+    public virtual bool Crouch { get; set; }
 
     private void Awake()
     {
-        playerInputActions = new PlayerInputActions();
-
         waitJumpInputBufferTime = new WaitForSeconds(jumpInputBufferTime);
     }
 
-    private void OnEnable()
+    private void Start()
     {
-        playerInputActions.Gameplay.Jump.canceled += delegate
-        {
-            HasJumpInputBuffer = false;
-        };
+        HasJumpInputBuffer = false;
     }
 
+    private void Update()
+    {
+        //Debug.Log(axes);
+    }
     //private void OnGUI()
     //{
     //    Rect rect = new Rect(200, 200, 200, 200);
@@ -47,14 +46,9 @@ public class PlayerInput : MonoBehaviour
 
     //}
 
-    public void EnableGameplayInputs()
-    {
-        playerInputActions.Gameplay.Enable();
-    }
-
     public void SetJumpInputBufferTimer()
     {
-        StopCoroutine(nameof(JumpInputBufferCoroutine));
+        //StopCoroutine(nameof(JumpInputBufferCoroutine));
         StartCoroutine(nameof(JumpInputBufferCoroutine));
     }
 

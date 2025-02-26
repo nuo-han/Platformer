@@ -3,16 +3,23 @@
   "WorkspaceRootPath": "D:\\\u4E09\u8F6E\\Platformer\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u4E09\u8F6E\\Platformer\\Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\FindWorkspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\FindWorkspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\character\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\character\\playergrounddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\playergrounddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\playergrounddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\character\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -20,28 +27,24 @@
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playera\\spell\\lightballspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\state machine system\\player state\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\state machine system\\player state\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\state machine system\\player state\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\character\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\input\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\input\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\input\\playerinputactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\state machine system\\player state\\the player state\\playerclimbslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\state machine system\\player state\\the player state\\playerclimbslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playera\\spell\\lighthealingspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,157 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\playera\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playera\\spellmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|d:\\\u4E09\u8F6E\\platformer\\assets\\script\\lightcity\\boss\\golem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightcity\\boss\\golem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\spiketrap\\spiketrapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\spiketrap\\spiketrapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\elevator\\elevatorunlockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\elevator\\elevatorunlockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\elevator\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\elevator\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\mobileplatform\\mobileplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\mobileplatform\\mobileplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\moveplatform\\moveplatformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\moveplatform\\moveplatformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\input\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\boss\\bossmucuspool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\boss\\bossmucuspool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\boss\\bossenemypool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\boss\\bossenemypool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\umbrellaprotected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\umbrellaprotected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\umbrellaarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\umbrellaarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\moveplatform\\moveplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\moveplatform\\moveplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\boss\\greenmucus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\boss\\greenmucus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\mobileplatform\\mobileplatformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\mobileplatform\\mobileplatformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\boss\\greencitybosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\boss\\greencitybosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\boss\\bosslaserpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\boss\\bosslaserpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\boss\\littleenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\boss\\littleenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\boss\\bossentergate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\boss\\bossentergate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\player\\playerb\\playerbshadowpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\player\\playerb\\playerbshadowpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\arrowtrap\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\arrowtrap\\arrowtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\boss\\bossexitgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\boss\\bossexitgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\activedvine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\activedvine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\fragileplatform\\fragileplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\fragileplatform\\fragileplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\boss\\bossvinespread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\boss\\bossvinespread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\player\\playera\\spell\\lightballspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\player\\playera\\spell\\lightballspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\eventchannels\\voideventchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\eventchannels\\voideventchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\unity projects\\Platformer\\Assets\\Script\\Input\\PlayerAInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\sourrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\sourrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\activevinespread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\activevinespread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\character\\enemy\\playerdetecter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\character\\enemy\\playerdetecter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\spiketrap\\spiketrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\spiketrap\\spiketrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\elevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\elevator\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\map\\green city\\sourpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\green city\\sourpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\trap\\arrowtrap\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trap\\arrowtrap\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerA\\PlayerAInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\Input\\PlayerA\\PlayerAInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|D:\\\u4E09\u8F6E\\Platformer\\assets\\script\\input\\playerb\\playerbinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\input\\playerb\\playerbinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -214,231 +66,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< Updated upstream
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LightBallSpell.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightBallSpell.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerA\\Spell\\LightBallSpell.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightBallSpell.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerA\\Spell\\LightBallSpell.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALQSURBVDhP7ZNNSBtBFMff7maTmGSNSUyseKgS2GhoRSGVUhovBttSPBQ8iR9QoV7FSOtFMPSkIBGhIL1ZSqVgD1orDfHQekvYQ02irVFbFWvduNGkSY352N3upNtC8dBCoSd/MLPMvD9v3vzfDpzzzxDyFyJsRNdyt8VEXiUp0klS\u002Bht6qu5OHdXU1aRcm13LIE0ikTDobukMB5cPlDFfLDs4OGjmHFzpafMpHC4e5pAGRxOikC30YQWMEUiBKSgKDA88gxM4owCFV5aAtOdVikqGJ3hvOp0uzwrZ1wIIDF/g\u002B2QJYGgK7YaG/Z/8nSvsCq1SqMButoOW1AIv8pDjcws9l3q6UbLJ4OTN5d3lip3kDivpQg0XGpybR5vq48xxFMfxp9H\u002B6MNihcEvwSsfEx9pQRSgtaY1XV9RP95Y0eihjbTHorHM6PX6vBQLV1KVSbPWDBiGJUsUJaFaU22eUlJSVdi\u002BNLZQriLtM\u002B3zHc87RI/fw6ZSqSeSV0Y59Bvxr/H5sbdjIu2lX8bSscp4Mv6590WvaPPaRmTJDw834hugIlRgKDEEKYrqLisrOypGZURRxKWDLNw3Tn2SO0Fb6qnAlIVNs0SWz4IIos4\u002Bbi8WUUyowCXrpUHiJFqe4WcDJgITztn3s5AX8ten3037uua6ypl9Bnl9DzUKaYsJq6gqyBQyEIqF0PIMWq02KZXxoI1uCzVfbAYCI8JWk/X\u002B0LWhpM1kQx4uCLzwCGkVaHLVuGD1cBVdnXa/co\u002B4ql2gU\u002BuAO\u002BGATbGog88kmT\u002BeiJeH2bCNwImor8c3zyU48\u002BLWIiUd8GZ9YD2IchV/m8B2YNi36euMxCK0UWMEqXugITXoaiB5tDDgHGhDur\u002BhmBCxtL7k3k5su\u002Bc\u002BzMFeag\u002BkKsBqsEJ1afXS6O3Rbln2R369FLWgfgx5cGB5zCH55eB53oGJmCNH5PplyTn/BYDvQ\u002BM1Z9USxwoAAAAASUVORK5CYII=",
               "WhenOpened": "2025-01-28T17:19:54.847Z",
-              "IsPinned": true,
-=======
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Golem.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\Golem.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\LightCity\\BOSS\\Golem.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\LightCity\\BOSS\\Golem.cs",
-              "RelativeToolTip": "Assets\\Script\\LightCity\\BOSS\\Golem.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwHEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T15:06:35.569Z",
->>>>>>> Stashed changes
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 0,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T06:42:32.324Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FindWorkspace.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\FindWorkspace.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\FindWorkspace.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\FindWorkspace.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.collab-proxy@2.6.0\\Editor\\FindWorkspace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:09:10.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PlayerGroundDetector.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\PlayerGroundDetector.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Character\\PlayerGroundDetector.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\PlayerGroundDetector.cs",
               "RelativeToolTip": "Assets\\Script\\Character\\PlayerGroundDetector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T06:41:53.478Z",
-              "EditorCaption": ""
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALQSURBVDhP7ZNNSBtBFMff7maTmGSNSUyseKgS2GhoRSGVUhovBttSPBQ8iR9QoV7FSOtFMPSkIBGhIL1ZSqVgD1orDfHQekvYQ02irVFbFWvduNGkSY352N3upNtC8dBCoSd/MLPMvD9v3vzfDpzzzxDyFyJsRNdyt8VEXiUp0klS\u002Bht6qu5OHdXU1aRcm13LIE0ikTDobukMB5cPlDFfLDs4OGjmHFzpafMpHC4e5pAGRxOikC30YQWMEUiBKSgKDA88gxM4owCFV5aAtOdVikqGJ3hvOp0uzwrZ1wIIDF/g\u002B2QJYGgK7YaG/Z/8nSvsCq1SqMButoOW1AIv8pDjcws9l3q6UbLJ4OTN5d3lip3kDivpQg0XGpybR5vq48xxFMfxp9H\u002B6MNihcEvwSsfEx9pQRSgtaY1XV9RP95Y0eihjbTHorHM6PX6vBQLV1KVSbPWDBiGJUsUJaFaU22eUlJSVdi\u002BNLZQriLtM\u002B3zHc87RI/fw6ZSqSeSV0Y59Bvxr/H5sbdjIu2lX8bSscp4Mv6590WvaPPaRmTJDw834hugIlRgKDEEKYrqLisrOypGZURRxKWDLNw3Tn2SO0Fb6qnAlIVNs0SWz4IIos4\u002Bbi8WUUyowCXrpUHiJFqe4WcDJgITztn3s5AX8ten3037uua6ypl9Bnl9DzUKaYsJq6gqyBQyEIqF0PIMWq02KZXxoI1uCzVfbAYCI8JWk/X\u002B0LWhpM1kQx4uCLzwCGkVaHLVuGD1cBVdnXa/co\u002B4ql2gU\u002BuAO\u002BGATbGog88kmT\u002BeiJeH2bCNwImor8c3zyU48\u002BLWIiUd8GZ9YD2IchV/m8B2YNi36euMxCK0UWMEqXugITXoaiB5tDDgHGhDur\u002BhmBCxtL7k3k5su\u002Bc\u002BzMFeag\u002BkKsBqsEJ1afXS6O3Rbln2R369FLWgfgx5cGB5zCH55eB53oGJmCNH5PplyTn/BYDvQ\u002BM1Z9USxwoAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-18T06:41:53.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Character\\PlayerController.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\Character\\PlayerController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwD4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T06:40:14.718Z",
-              "EditorCaption": ""
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALQSURBVDhP7ZNNSBtBFMff7maTmGSNSUyseKgS2GhoRSGVUhovBttSPBQ8iR9QoV7FSOtFMPSkIBGhIL1ZSqVgD1orDfHQekvYQ02irVFbFWvduNGkSY352N3upNtC8dBCoSd/MLPMvD9v3vzfDpzzzxDyFyJsRNdyt8VEXiUp0klS\u002Bht6qu5OHdXU1aRcm13LIE0ikTDobukMB5cPlDFfLDs4OGjmHFzpafMpHC4e5pAGRxOikC30YQWMEUiBKSgKDA88gxM4owCFV5aAtOdVikqGJ3hvOp0uzwrZ1wIIDF/g\u002B2QJYGgK7YaG/Z/8nSvsCq1SqMButoOW1AIv8pDjcws9l3q6UbLJ4OTN5d3lip3kDivpQg0XGpybR5vq48xxFMfxp9H\u002B6MNihcEvwSsfEx9pQRSgtaY1XV9RP95Y0eihjbTHorHM6PX6vBQLV1KVSbPWDBiGJUsUJaFaU22eUlJSVdi\u002BNLZQriLtM\u002B3zHc87RI/fw6ZSqSeSV0Y59Bvxr/H5sbdjIu2lX8bSscp4Mv6590WvaPPaRmTJDw834hugIlRgKDEEKYrqLisrOypGZURRxKWDLNw3Tn2SO0Fb6qnAlIVNs0SWz4IIos4\u002Bbi8WUUyowCXrpUHiJFqe4WcDJgITztn3s5AX8ten3037uua6ypl9Bnl9DzUKaYsJq6gqyBQyEIqF0PIMWq02KZXxoI1uCzVfbAYCI8JWk/X\u002B0LWhpM1kQx4uCLzwCGkVaHLVuGD1cBVdnXa/co\u002B4ql2gU\u002BuAO\u002BGATbGog88kmT\u002BeiJeH2bCNwImor8c3zyU48\u002BLWIiUd8GZ9YD2IchV/m8B2YNi36euMxCK0UWMEqXugITXoaiB5tDDgHGhDur\u002BhmBCxtL7k3k5su\u002Bc\u002BzMFeag\u002BkKsBqsEJ1afXS6O3Rbln2R369FLWgfgx5cGB5zCH55eB53oGJmCNH5PplyTn/BYDvQ\u002BM1Z9USxwoAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-18T06:40:14.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PlayerStateMachine.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\PlayerStateMachine.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\State Machine System\\Player State\\PlayerStateMachine.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\PlayerStateMachine.cs",
               "RelativeToolTip": "Assets\\Script\\State Machine System\\Player State\\PlayerStateMachine.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAqwB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T06:29:59.939Z",
-              "EditorCaption": ""
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALQSURBVDhP7ZNNSBtBFMff7maTmGSNSUyseKgS2GhoRSGVUhovBttSPBQ8iR9QoV7FSOtFMPSkIBGhIL1ZSqVgD1orDfHQekvYQ02irVFbFWvduNGkSY352N3upNtC8dBCoSd/MLPMvD9v3vzfDpzzzxDyFyJsRNdyt8VEXiUp0klS\u002Bht6qu5OHdXU1aRcm13LIE0ikTDobukMB5cPlDFfLDs4OGjmHFzpafMpHC4e5pAGRxOikC30YQWMEUiBKSgKDA88gxM4owCFV5aAtOdVikqGJ3hvOp0uzwrZ1wIIDF/g\u002B2QJYGgK7YaG/Z/8nSvsCq1SqMButoOW1AIv8pDjcws9l3q6UbLJ4OTN5d3lip3kDivpQg0XGpybR5vq48xxFMfxp9H\u002B6MNihcEvwSsfEx9pQRSgtaY1XV9RP95Y0eihjbTHorHM6PX6vBQLV1KVSbPWDBiGJUsUJaFaU22eUlJSVdi\u002BNLZQriLtM\u002B3zHc87RI/fw6ZSqSeSV0Y59Bvxr/H5sbdjIu2lX8bSscp4Mv6590WvaPPaRmTJDw834hugIlRgKDEEKYrqLisrOypGZURRxKWDLNw3Tn2SO0Fb6qnAlIVNs0SWz4IIos4\u002Bbi8WUUyowCXrpUHiJFqe4WcDJgITztn3s5AX8ten3037uua6ypl9Bnl9DzUKaYsJq6gqyBQyEIqF0PIMWq02KZXxoI1uCzVfbAYCI8JWk/X\u002B0LWhpM1kQx4uCLzwCGkVaHLVuGD1cBVdnXa/co\u002B4ql2gU\u002BuAO\u002BGATbGog88kmT\u002BeiJeH2bCNwImor8c3zyU48\u002BLWIiUd8GZ9YD2IchV/m8B2YNi36euMxCK0UWMEqXugITXoaiB5tDDgHGhDur\u002BhmBCxtL7k3k5su\u002Bc\u002BzMFeag\u002BkKsBqsEJ1afXS6O3Rbln2R369FLWgfgx5cGB5zCH55eB53oGJmCNH5PplyTn/BYDvQ\u002BM1Z9USxwoAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-18T06:29:59.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Character\\Player\\PlayerController.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\Character\\Player\\PlayerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T06:28:22.986Z",
-              "EditorCaption": ""
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALQSURBVDhP7ZNNSBtBFMff7maTmGSNSUyseKgS2GhoRSGVUhovBttSPBQ8iR9QoV7FSOtFMPSkIBGhIL1ZSqVgD1orDfHQekvYQ02irVFbFWvduNGkSY352N3upNtC8dBCoSd/MLPMvD9v3vzfDpzzzxDyFyJsRNdyt8VEXiUp0klS\u002Bht6qu5OHdXU1aRcm13LIE0ikTDobukMB5cPlDFfLDs4OGjmHFzpafMpHC4e5pAGRxOikC30YQWMEUiBKSgKDA88gxM4owCFV5aAtOdVikqGJ3hvOp0uzwrZ1wIIDF/g\u002B2QJYGgK7YaG/Z/8nSvsCq1SqMButoOW1AIv8pDjcws9l3q6UbLJ4OTN5d3lip3kDivpQg0XGpybR5vq48xxFMfxp9H\u002B6MNihcEvwSsfEx9pQRSgtaY1XV9RP95Y0eihjbTHorHM6PX6vBQLV1KVSbPWDBiGJUsUJaFaU22eUlJSVdi\u002BNLZQriLtM\u002B3zHc87RI/fw6ZSqSeSV0Y59Bvxr/H5sbdjIu2lX8bSscp4Mv6590WvaPPaRmTJDw834hugIlRgKDEEKYrqLisrOypGZURRxKWDLNw3Tn2SO0Fb6qnAlIVNs0SWz4IIos4\u002Bbi8WUUyowCXrpUHiJFqe4WcDJgITztn3s5AX8ten3037uua6ypl9Bnl9DzUKaYsJq6gqyBQyEIqF0PIMWq02KZXxoI1uCzVfbAYCI8JWk/X\u002B0LWhpM1kQx4uCLzwCGkVaHLVuGD1cBVdnXa/co\u002B4ql2gU\u002BuAO\u002BGATbGog88kmT\u002BeiJeH2bCNwImor8c3zyU48\u002BLWIiUd8GZ9YD2IchV/m8B2YNi36euMxCK0UWMEqXugITXoaiB5tDDgHGhDur\u002BhmBCxtL7k3k5su\u002Bc\u002BzMFeag\u002BkKsBqsEJ1afXS6O3Rbln2R369FLWgfgx5cGB5zCH55eB53oGJmCNH5PplyTn/BYDvQ\u002BM1Z9USxwoAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-18T06:28:22.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayerInput.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerInput.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
-              "RelativeToolTip": "Assets\\Script\\Input\\PlayerInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T06:27:46.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerInputActions.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInputActions.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerInputActions.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInputActions.cs",
-              "RelativeToolTip": "Assets\\Script\\Input\\PlayerInputActions.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T06:37:24.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerClimbSlip.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
-              "RelativeToolTip": "Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T12:04:53.53Z",
-=======
-              "DocumentIndex": 2,
-              "Title": "SpikeTrapController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\SpikeTrap\\SpikeTrapController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\SpikeTrap\\SpikeTrapController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\SpikeTrap\\SpikeTrapController.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\SpikeTrap\\SpikeTrapController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:19:04.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BossMucusPool.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossMucusPool.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\Boss\\BossMucusPool.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossMucusPool.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\Boss\\BossMucusPool.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxMAAAAmAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANqSURBVDhP7VJdaFtlGH6/75yT5JycpIlNk7ZpkZbSbdUMRzGQOemGqGxsvVG8EtR2F4JMb0T0Qqx0vZKB7FLxB8ThphvYrhtbB6WDxTk31y3GtPltbbs0nubvnJyTnN/PE5nXXoh3ez6ej\u002B/i/Xme9/3gEf4zUPsihODUVsqfKCX8F9MX8b2te6DZJ\u002BANQBfbJe3N7i1NTU3BmrwWPP/Tee\u002BZ3BnpxK4T1YNPHew\u002B/fNp\u002BnLmcnVlZ6UKH4OF7WIouZH01dX6a02reQ5omOV4bpZ1sbMsbZNh31X2Ke5isdgpV\u002BQPVKTOYhO/rziUiCzLn2mads40zdd3O3f72wLRYmHRBTq8eXf77kS2nN2DMMI9fE/TLkYeqv9\u002BbGBsJsSGjp9NnX15aX1pKF1JZz205/5oePS5dDnNbYqb9\u002B20L9Sa\u002BhWd28oxKlajuVouYoABY31j5SAf/M7r8JbFlgiVZiVh21aAgh2O4lq2YqAQ1XLQjrLf5TcclIMgQA0LWXXmMYZQsB\u002BcD5QHxwzLiAz4BtYPDx6\u002B4ON8n4qSuMAAE2c97EomnpEG\u002BwezoY7Q0/VW/Yl8NX99ct/k50d3HX2hUC1whUrhAqHIt9l3shJeLa/Cen0dKEyBEzt/WWuuTQ8Fh/IH9hyQ2jw0cKg1MjJCqYwaqKk1l6zLYBDDlRJSAUEW6JbRQgQTnhikAz4ChDuhs20BaEwDprB\u002Bp3hHQQhZ7fn9g97B3m5ikpm51blnruWvgaiK\u002By/lLs1MX5/uuV28zZqW\u002BRLGeHK0d9RFBzoD4GAdoJs65Ct52mk5\u002BcXfFgl0AQiCALIgGzvKTo3F7DeRUMQjKEL05ubN5X5v/8KR4SPH7aV2JP5MLCGCFuzeOjXx3oSzj\u002B87JmlSZEPcsIKeoC/sC0dZi43ZXyLWxM2Oilr5PfZ4LO2m3OJ2YzufrqbnTz5/ci7WG5OSQvLXfD3/o4WtePKtpEZHw1G90WzcUg31SZtDki69vVxaJm7G/bddk5g/KLJy1X7KOIjnUQZd5V28XrpV0oefHf7S4A1kgqnbC9Ha8QgIoPhG3F8Wy29kKplXb/xxgys2isBQDIS9YejmuueRA3146sVTcjvh34DbJa/0X6m5sOtr2\u002BYr9izGNUsbt7c5blset2jrEz7ONx/GP8L/DoC/ADUWrbFML9C7AAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-02-16T09:08:41.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UmbrellaProtected.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\UmbrellaProtected.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\UmbrellaProtected.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\UmbrellaProtected.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\UmbrellaProtected.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAApAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANqSURBVDhP7VJdaFtlGH6/75yT5JycpIlNk7ZpkZbSbdUMRzGQOemGqGxsvVG8EtR2F4JMb0T0Qqx0vZKB7FLxB8ThphvYrhtbB6WDxTk31y3GtPltbbs0nubvnJyTnN/PE5nXXoh3ez6ej\u002B/i/Xme9/3gEf4zUPsihODUVsqfKCX8F9MX8b2te6DZJ\u002BANQBfbJe3N7i1NTU3BmrwWPP/Tee\u002BZ3BnpxK4T1YNPHew\u002B/fNp\u002BnLmcnVlZ6UKH4OF7WIouZH01dX6a02reQ5omOV4bpZ1sbMsbZNh31X2Ke5isdgpV\u002BQPVKTOYhO/rziUiCzLn2mads40zdd3O3f72wLRYmHRBTq8eXf77kS2nN2DMMI9fE/TLkYeqv9\u002BbGBsJsSGjp9NnX15aX1pKF1JZz205/5oePS5dDnNbYqb9\u002B20L9Sa\u002BhWd28oxKlajuVouYoABY31j5SAf/M7r8JbFlgiVZiVh21aAgh2O4lq2YqAQ1XLQjrLf5TcclIMgQA0LWXXmMYZQsB\u002BcD5QHxwzLiAz4BtYPDx6\u002B4ON8n4qSuMAAE2c97EomnpEG\u002BwezoY7Q0/VW/Yl8NX99ct/k50d3HX2hUC1whUrhAqHIt9l3shJeLa/Cen0dKEyBEzt/WWuuTQ8Fh/IH9hyQ2jw0cKg1MjJCqYwaqKk1l6zLYBDDlRJSAUEW6JbRQgQTnhikAz4ChDuhs20BaEwDprB\u002Bp3hHQQhZ7fn9g97B3m5ikpm51blnruWvgaiK\u002By/lLs1MX5/uuV28zZqW\u002BRLGeHK0d9RFBzoD4GAdoJs65Ct52mk5\u002BcXfFgl0AQiCALIgGzvKTo3F7DeRUMQjKEL05ubN5X5v/8KR4SPH7aV2JP5MLCGCFuzeOjXx3oSzj\u002B87JmlSZEPcsIKeoC/sC0dZi43ZXyLWxM2Oilr5PfZ4LO2m3OJ2YzufrqbnTz5/ci7WG5OSQvLXfD3/o4WtePKtpEZHw1G90WzcUg31SZtDki69vVxaJm7G/bddk5g/KLJy1X7KOIjnUQZd5V28XrpV0oefHf7S4A1kgqnbC9Ha8QgIoPhG3F8Wy29kKplXb/xxgys2isBQDIS9YejmuueRA3146sVTcjvh34DbJa/0X6m5sOtr2\u002BYr9izGNUsbt7c5blset2jrEz7ONx/GP8L/DoC/ADUWrbFML9C7AAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-02-17T08:18:20.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UmbrellaArea.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\UmbrellaArea.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\UmbrellaArea.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\UmbrellaArea.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\UmbrellaArea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T09:17:36.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MovePlatformController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MovePlatform\\MovePlatformController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\MovePlatform\\MovePlatformController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MovePlatform\\MovePlatformController.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\MovePlatform\\MovePlatformController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:41:00.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
-              "ViewState": "AgIAAAMBAAAAAAAAAAAAAA4BAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T06:14:43.421Z",
->>>>>>> Stashed changes
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "LightHealingSpell.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerA\\Spell\\LightHealingSpell.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwCIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T05:41:23.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Script\\Character\\Enemy\\EnemyController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBTwAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:42:32.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerInput.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Script\\Input\\PlayerInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALQSURBVDhP7ZNNSBtBFMff7maTmGSNSUyseKgS2GhoRSGVUhovBttSPBQ8iR9QoV7FSOtFMPSkIBGhIL1ZSqVgD1orDfHQekvYQ02irVFbFWvduNGkSY352N3upNtC8dBCoSd/MLPMvD9v3vzfDpzzzxDyFyJsRNdyt8VEXiUp0klS\u002Bht6qu5OHdXU1aRcm13LIE0ikTDobukMB5cPlDFfLDs4OGjmHFzpafMpHC4e5pAGRxOikC30YQWMEUiBKSgKDA88gxM4owCFV5aAtOdVikqGJ3hvOp0uzwrZ1wIIDF/g\u002B2QJYGgK7YaG/Z/8nSvsCq1SqMButoOW1AIv8pDjcws9l3q6UbLJ4OTN5d3lip3kDivpQg0XGpybR5vq48xxFMfxp9H\u002B6MNihcEvwSsfEx9pQRSgtaY1XV9RP95Y0eihjbTHorHM6PX6vBQLV1KVSbPWDBiGJUsUJaFaU22eUlJSVdi\u002BNLZQriLtM\u002B3zHc87RI/fw6ZSqSeSV0Y59Bvxr/H5sbdjIu2lX8bSscp4Mv6590WvaPPaRmTJDw834hugIlRgKDEEKYrqLisrOypGZURRxKWDLNw3Tn2SO0Fb6qnAlIVNs0SWz4IIos4\u002Bbi8WUUyowCXrpUHiJFqe4WcDJgITztn3s5AX8ten3037uua6ypl9Bnl9DzUKaYsJq6gqyBQyEIqF0PIMWq02KZXxoI1uCzVfbAYCI8JWk/X\u002B0LWhpM1kQx4uCLzwCGkVaHLVuGD1cBVdnXa/co\u002B4ql2gU\u002BuAO\u002BGATbGog88kmT\u002BeiJeH2bCNwImor8c3zyU48\u002BLWIiUd8GZ9YD2IchV/m8B2YNi36euMxCK0UWMEqXugITXoaiB5tDDgHGhDur\u002BhmBCxtL7k3k5su\u002Bc\u002BzMFeag\u002BkKsBqsEJ1afXS6O3Rbln2R369FLWgfgx5cGB5zCH55eB53oGJmCNH5PplyTn/BYDvQ\u002BM1Z9USxwoAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-18T06:27:46.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerInputActions.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInputActions.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerInputActions.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInputActions.cs",
+              "RelativeToolTip": "Assets\\Script\\Input\\PlayerInputActions.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALQSURBVDhP7ZNNSBtBFMff7maTmGSNSUyseKgS2GhoRSGVUhovBttSPBQ8iR9QoV7FSOtFMPSkIBGhIL1ZSqVgD1orDfHQekvYQ02irVFbFWvduNGkSY352N3upNtC8dBCoSd/MLPMvD9v3vzfDpzzzxDyFyJsRNdyt8VEXiUp0klS\u002Bht6qu5OHdXU1aRcm13LIE0ikTDobukMB5cPlDFfLDs4OGjmHFzpafMpHC4e5pAGRxOikC30YQWMEUiBKSgKDA88gxM4owCFV5aAtOdVikqGJ3hvOp0uzwrZ1wIIDF/g\u002B2QJYGgK7YaG/Z/8nSvsCq1SqMButoOW1AIv8pDjcws9l3q6UbLJ4OTN5d3lip3kDivpQg0XGpybR5vq48xxFMfxp9H\u002B6MNihcEvwSsfEx9pQRSgtaY1XV9RP95Y0eihjbTHorHM6PX6vBQLV1KVSbPWDBiGJUsUJaFaU22eUlJSVdi\u002BNLZQriLtM\u002B3zHc87RI/fw6ZSqSeSV0Y59Bvxr/H5sbdjIu2lX8bSscp4Mv6590WvaPPaRmTJDw834hugIlRgKDEEKYrqLisrOypGZURRxKWDLNw3Tn2SO0Fb6qnAlIVNs0SWz4IIos4\u002Bbi8WUUyowCXrpUHiJFqe4WcDJgITztn3s5AX8ten3037uua6ypl9Bnl9DzUKaYsJq6gqyBQyEIqF0PIMWq02KZXxoI1uCzVfbAYCI8JWk/X\u002B0LWhpM1kQx4uCLzwCGkVaHLVuGD1cBVdnXa/co\u002B4ql2gU\u002BuAO\u002BGATbGog88kmT\u002BeiJeH2bCNwImor8c3zyU48\u002BLWIiUd8GZ9YD2IchV/m8B2YNi36euMxCK0UWMEqXugITXoaiB5tDDgHGhDur\u002BhmBCxtL7k3k5su\u002Bc\u002BzMFeag\u002BkKsBqsEJ1afXS6O3Rbln2R369FLWgfgx5cGB5zCH55eB53oGJmCNH5PplyTn/BYDvQ\u002BM1Z9USxwoAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-02-02T06:37:24.159Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "PlayerClimbSlip.cs",
+              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
+              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
+              "RelativeToolTip": "Assets\\Script\\State Machine System\\Player State\\The Player State\\PlayerClimbSlip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALQSURBVDhP7ZNNSBtBFMff7maTmGSNSUyseKgS2GhoRSGVUhovBttSPBQ8iR9QoV7FSOtFMPSkIBGhIL1ZSqVgD1orDfHQekvYQ02irVFbFWvduNGkSY352N3upNtC8dBCoSd/MLPMvD9v3vzfDpzzzxDyFyJsRNdyt8VEXiUp0klS\u002Bht6qu5OHdXU1aRcm13LIE0ikTDobukMB5cPlDFfLDs4OGjmHFzpafMpHC4e5pAGRxOikC30YQWMEUiBKSgKDA88gxM4owCFV5aAtOdVikqGJ3hvOp0uzwrZ1wIIDF/g\u002B2QJYGgK7YaG/Z/8nSvsCq1SqMButoOW1AIv8pDjcws9l3q6UbLJ4OTN5d3lip3kDivpQg0XGpybR5vq48xxFMfxp9H\u002B6MNihcEvwSsfEx9pQRSgtaY1XV9RP95Y0eihjbTHorHM6PX6vBQLV1KVSbPWDBiGJUsUJaFaU22eUlJSVdi\u002BNLZQriLtM\u002B3zHc87RI/fw6ZSqSeSV0Y59Bvxr/H5sbdjIu2lX8bSscp4Mv6590WvaPPaRmTJDw834hugIlRgKDEEKYrqLisrOypGZURRxKWDLNw3Tn2SO0Fb6qnAlIVNs0SWz4IIos4\u002Bbi8WUUyowCXrpUHiJFqe4WcDJgITztn3s5AX8ten3037uua6ypl9Bnl9DzUKaYsJq6gqyBQyEIqF0PIMWq02KZXxoI1uCzVfbAYCI8JWk/X\u002B0LWhpM1kQx4uCLzwCGkVaHLVuGD1cBVdnXa/co\u002B4ql2gU\u002BuAO\u002BGATbGog88kmT\u002BeiJeH2bCNwImor8c3zyU48\u002BLWIiUd8GZ9YD2IchV/m8B2YNi36euMxCK0UWMEqXugITXoaiB5tDDgHGhDur\u002BhmBCxtL7k3k5su\u002Bc\u002BzMFeag\u002BkKsBqsEJ1afXS6O3Rbln2R369FLWgfgx5cGB5zCH55eB53oGJmCNH5PplyTn/BYDvQ\u002BM1Z9USxwoAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-29T12:04:53.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HealthController.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\HealthController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Character\\HealthController.cs",
@@ -450,149 +218,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SpellManager.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\SpellManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerA\\SpellManager.cs",
               "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\SpellManager.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerA\\SpellManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
-=======
-              "DocumentIndex": 3,
-              "Title": "ElevatorUnlockController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\ElevatorUnlockController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\Elevator\\ElevatorUnlockController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\ElevatorUnlockController.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\Elevator\\ElevatorUnlockController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:19:39.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MobilePlatform.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatform.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T06:49:09.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ElevatorController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\ElevatorController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\Elevator\\ElevatorController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\ElevatorController.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\Elevator\\ElevatorController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T14:52:31.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlayerInput.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerInput.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerInput.cs",
-              "RelativeToolTip": "Assets\\Script\\Input\\PlayerInput.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T04:45:44.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BossEnemyPool.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossEnemyPool.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\Boss\\BossEnemyPool.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossEnemyPool.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\Boss\\BossEnemyPool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANqSURBVDhP7VJdaFtlGH6/75yT5JycpIlNk7ZpkZbSbdUMRzGQOemGqGxsvVG8EtR2F4JMb0T0Qqx0vZKB7FLxB8ThphvYrhtbB6WDxTk31y3GtPltbbs0nubvnJyTnN/PE5nXXoh3ez6ej\u002B/i/Xme9/3gEf4zUPsihODUVsqfKCX8F9MX8b2te6DZJ\u002BANQBfbJe3N7i1NTU3BmrwWPP/Tee\u002BZ3BnpxK4T1YNPHew\u002B/fNp\u002BnLmcnVlZ6UKH4OF7WIouZH01dX6a02reQ5omOV4bpZ1sbMsbZNh31X2Ke5isdgpV\u002BQPVKTOYhO/rziUiCzLn2mads40zdd3O3f72wLRYmHRBTq8eXf77kS2nN2DMMI9fE/TLkYeqv9\u002BbGBsJsSGjp9NnX15aX1pKF1JZz205/5oePS5dDnNbYqb9\u002B20L9Sa\u002BhWd28oxKlajuVouYoABY31j5SAf/M7r8JbFlgiVZiVh21aAgh2O4lq2YqAQ1XLQjrLf5TcclIMgQA0LWXXmMYZQsB\u002BcD5QHxwzLiAz4BtYPDx6\u002B4ON8n4qSuMAAE2c97EomnpEG\u002BwezoY7Q0/VW/Yl8NX99ct/k50d3HX2hUC1whUrhAqHIt9l3shJeLa/Cen0dKEyBEzt/WWuuTQ8Fh/IH9hyQ2jw0cKg1MjJCqYwaqKk1l6zLYBDDlRJSAUEW6JbRQgQTnhikAz4ChDuhs20BaEwDprB\u002Bp3hHQQhZ7fn9g97B3m5ikpm51blnruWvgaiK\u002By/lLs1MX5/uuV28zZqW\u002BRLGeHK0d9RFBzoD4GAdoJs65Ct52mk5\u002BcXfFgl0AQiCALIgGzvKTo3F7DeRUMQjKEL05ubN5X5v/8KR4SPH7aV2JP5MLCGCFuzeOjXx3oSzj\u002B87JmlSZEPcsIKeoC/sC0dZi43ZXyLWxM2Oilr5PfZ4LO2m3OJ2YzufrqbnTz5/ci7WG5OSQvLXfD3/o4WtePKtpEZHw1G90WzcUg31SZtDki69vVxaJm7G/bddk5g/KLJy1X7KOIjnUQZd5V28XrpV0oefHf7S4A1kgqnbC9Ha8QgIoPhG3F8Wy29kKplXb/xxgys2isBQDIS9YejmuueRA3146sVTcjvh34DbJa/0X6m5sOtr2\u002BYr9izGNUsbt7c5blset2jrEz7ONx/GP8L/DoC/ADUWrbFML9C7AAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-02-16T14:48:41.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Player\\PlayerController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Script\\Character\\Player\\PlayerController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwLYBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T04:44:50.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MovePlatform.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MovePlatform\\MovePlatform.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\MovePlatform\\MovePlatform.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MovePlatform\\MovePlatform.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\MovePlatform\\MovePlatform.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvx8AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T04:31:45.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GreenMucus.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\GreenMucus.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\Boss\\GreenMucus.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\GreenMucus.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\Boss\\GreenMucus.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAQwCoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T14:18:30.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MobilePlatformController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatformController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatformController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\MobilePlatform\\MobilePlatformController.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\MobilePlatform\\MobilePlatformController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T14:51:15.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BossLaserPool.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossLaserPool.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\Boss\\BossLaserPool.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossLaserPool.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\Boss\\BossLaserPool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T07:41:02.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GreenCityBossController.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\GreenCityBossController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\Boss\\GreenCityBossController.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\GreenCityBossController.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\Boss\\GreenCityBossController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAywEgAAAAjAAAAAAAAAA==",
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T16:16:16.056Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Spell.cs",
               "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\PlayerA\\Spell.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerA\\Spell.cs",
@@ -601,242 +239,6 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T16:17:20.664Z"
-=======
-              "DocumentIndex": 18,
-              "Title": "LittleEnemy.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\LittleEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\Boss\\LittleEnemy.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\LittleEnemy.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\Boss\\LittleEnemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:34:36.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BossEnterGate.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossEnterGate.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\Boss\\BossEnterGate.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossEnterGate.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\Boss\\BossEnterGate.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvx4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:47:30.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PlayerBShadowPool.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerB\\PlayerBShadowPool.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Player\\PlayerB\\PlayerBShadowPool.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerB\\PlayerBShadowPool.cs",
-              "RelativeToolTip": "Assets\\Script\\Character\\Player\\PlayerB\\PlayerBShadowPool.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T07:45:05.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ArrowTrap.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\ArrowTrap\\ArrowTrap.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\ArrowTrap\\ArrowTrap.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\ArrowTrap\\ArrowTrap.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\ArrowTrap\\ArrowTrap.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAA5wDoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:43:57.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BossExitGate.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossExitGate.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\Boss\\BossExitGate.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossExitGate.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\Boss\\BossExitGate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:46:51.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ActivedVine.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\ActivedVine.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\ActivedVine.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\ActivedVine.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\ActivedVine.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvx0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T05:16:35.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FragilePlatform.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\FragilePlatform\\FragilePlatform.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\FragilePlatform\\FragilePlatform.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\FragilePlatform\\FragilePlatform.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\FragilePlatform\\FragilePlatform.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T03:58:33.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BossVineSpread.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossVineSpread.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\Boss\\BossVineSpread.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\Boss\\BossVineSpread.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\Boss\\BossVineSpread.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T03:51:11.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LightBallSpell.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerA\\Spell\\LightBallSpell.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Player\\PlayerA\\Spell\\LightBallSpell.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Player\\PlayerA\\Spell\\LightBallSpell.cs",
-              "RelativeToolTip": "Assets\\Script\\Character\\Player\\PlayerA\\Spell\\LightBallSpell.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAQwDwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:51:42.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "VoidEventChannel.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\EventChannels\\VoidEventChannel.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\EventChannels\\VoidEventChannel.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\EventChannels\\VoidEventChannel.cs",
-              "RelativeToolTip": "Assets\\Script\\EventChannels\\VoidEventChannel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T04:15:16.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "PlayerAInput.cs",
-              "DocumentMoniker": "C:\\unity projects\\Platformer\\Assets\\Script\\Input\\PlayerAInput.cs",
-              "ToolTip": "C:\\unity projects\\Platformer\\Assets\\Script\\Input\\PlayerAInput.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T05:57:58.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "SourRain.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\SourRain.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\SourRain.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\SourRain.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\SourRain.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T15:29:09.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ActiveVineSpread.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\ActiveVineSpread.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\ActiveVineSpread.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\ActiveVineSpread.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\ActiveVineSpread.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T04:57:34.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "SpikeTrap.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\SpikeTrap\\SpikeTrap.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\SpikeTrap\\SpikeTrap.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\SpikeTrap\\SpikeTrap.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\SpikeTrap\\SpikeTrap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T09:20:02.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PlayerDetecter.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\PlayerDetecter.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Character\\Enemy\\PlayerDetecter.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Character\\Enemy\\PlayerDetecter.cs",
-              "RelativeToolTip": "Assets\\Script\\Character\\Enemy\\PlayerDetecter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T09:33:58.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "SourPool.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\SourPool.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Map\\Green City\\SourPool.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Map\\Green City\\SourPool.cs",
-              "RelativeToolTip": "Assets\\Script\\Map\\Green City\\SourPool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T15:21:36.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Arrow.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\ArrowTrap\\Arrow.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\ArrowTrap\\Arrow.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\ArrowTrap\\Arrow.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\ArrowTrap\\Arrow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:43:23.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Elevator.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\Elevator.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Trap\\Elevator\\Elevator.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Trap\\Elevator\\Elevator.cs",
-              "RelativeToolTip": "Assets\\Script\\Trap\\Elevator\\Elevator.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T14:53:17.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "PlayerAInput.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerA\\PlayerAInput.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerA\\PlayerAInput.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerA\\PlayerAInput.cs",
-              "RelativeToolTip": "Assets\\Script\\Input\\PlayerA\\PlayerAInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T15:11:25.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "PlayerBInput.cs",
-              "DocumentMoniker": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerB\\PlayerBInput.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Input\\PlayerB\\PlayerBInput.cs",
-              "ToolTip": "D:\\\u4E09\u8F6E\\Platformer\\Assets\\Script\\Input\\PlayerB\\PlayerBInput.cs",
-              "RelativeToolTip": "Assets\\Script\\Input\\PlayerB\\PlayerBInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T06:10:36.202Z"
->>>>>>> Stashed changes
             }
           ]
         }
