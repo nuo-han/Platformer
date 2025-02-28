@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerA
+  - PlayerB
+  - FlyEnemy
+  - BossFragile
+  - BossVine
+  - GolemTrap
+  - Controller
   layers:
   - Default
   - TransparentFX
@@ -40,4 +47,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2484277561
     locked: 0

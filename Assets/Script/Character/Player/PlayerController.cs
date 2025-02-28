@@ -23,7 +23,7 @@ public class PlayerController : HealthController
     private float lastDash = -10f;
     public float dashSpeed = 2f;
     public float dashCoolDown = 1f;
-    float dashDirection => Mathf.Sign(input.AxesX) == 0 ? transform.localScale.x : Mathf.Sign(input.AxesX);//Èç¹û²»ÒÆ¶¯£¬Ä¬ÈÏÏòÃæ¶ÔµÄ·½Ïò³å´Ì
+    float dashDirection => Mathf.Sign(input.AxesX) == 0 ? transform.localScale.x : Mathf.Sign(input.AxesX);//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ¶ï¿½ï¿½ï¿½Ä¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÔµÄ·ï¿½ï¿½ï¿½ï¿½ï¿½
     private bool canPlayerDash => CompareTag("PlayerB");
     private bool IsDashPressed => input.Dash;
     private bool isDashing = false;
@@ -87,6 +87,19 @@ public class PlayerController : HealthController
 
     private void Update()
     {
+
+        //æµ‹è¯•
+        if (Input.GetKeyDown(KeyCode.K))
+        {
+            currentHealth -= 20;
+            UpdateHealth();
+        }
+        if (Input.GetKeyDown(KeyCode.L))
+        { currentHealth += 20;
+            UpdateHealth();
+        }
+        //
+
         if(umbrella !=null) HandleUmbralla();
         HandleMovement();
         HandleDash();
@@ -106,7 +119,7 @@ public class PlayerController : HealthController
     {
         Dash();
     }
-    #region ÒÆ¶¯
+    #region ï¿½Æ¶ï¿½
     private void HandleMovement()
     {
         float speed = isCrouching ? crouchSpeed : walkSpeed;
@@ -123,10 +136,10 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ÌøÔ¾
+    #region ï¿½ï¿½Ô¾
     private void HandleJump()
     {
-        // ÖØÖÃµØÃæ×´Ì¬
+        // ï¿½ï¿½ï¿½Ãµï¿½ï¿½ï¿½×´Ì¬
         if (IsGrounded)
         {
             canAirJump = true;
@@ -139,13 +152,13 @@ public class PlayerController : HealthController
             coyoteTimeCounter -= Time.deltaTime;
         }
 
-        // ´¦ÀíÌøÔ¾ÊäÈë»º³å£¬·ÀÖ¹ÍÌ¼ü
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¾ï¿½ï¿½ï¿½ë»ºï¿½å£¬ï¿½ï¿½Ö¹ï¿½Ì¼ï¿½
         if (input.Jump)
         {
             input.SetJumpInputBufferTimer();
         }
 
-        // Ö´ÐÐÌøÔ¾
+        // Ö´ï¿½ï¿½ï¿½ï¿½Ô¾
         if (hasJumpBuffer)
         {
             if (IsGrounded || coyoteTimeCounter > 0)
@@ -162,7 +175,7 @@ public class PlayerController : HealthController
             }
         }
 
-        // ¶Ì°´ÌøÔ¾Ê±½µµÍ¸ß¶È
+        // ï¿½Ì°ï¿½ï¿½ï¿½Ô¾Ê±ï¿½ï¿½ï¿½Í¸ß¶ï¿½
         if (input.StopJump && rb.velocity.y > 0)
         {
             rb.velocity = new Vector2(rb.velocity.x, 0);
@@ -171,14 +184,14 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ³å´Ì
+    #region ï¿½ï¿½ï¿½
     void HandleDash()
     {
         if(canPlayerDash && IsDashPressed)
         {
             if (Time.time - lastDash >= dashCoolDown)
             {
-                //Ö´ÐÐ³å´Ì
+                //Ö´ï¿½Ð³ï¿½ï¿½
                 ReadyToDash();
             }
 
@@ -222,7 +235,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ÅÊÅÀ
+    #region ï¿½ï¿½ï¿½ï¿½
     public void EnterClimb()
     {
         canClimb = true;
@@ -243,7 +256,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ÌøÔ¾»º³å´¦Àí
+    #region ï¿½ï¿½Ô¾ï¿½ï¿½ï¿½å´¦ï¿½ï¿½
     private void HandleJumpBuffer()
     {
         if (input.HasJumpInputBuffer && (IsGrounded || IsTouchingWall || canAirJump))
@@ -258,7 +271,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ²»Í¬ÀàÐÍÌøÔ¾ÊµÏÖ
+    #region ï¿½ï¿½Í¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¾Êµï¿½ï¿½
     private void GroundJump()
     {
         rb.velocity = new Vector2(rb.velocity.x, jumpForce);
@@ -290,7 +303,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region Ç½±Ú»¬Âä
+    #region Ç½ï¿½Ú»ï¿½ï¿½ï¿½
     private void HandleWallSlide()
     {
         if (IsTouchingWall && !IsGrounded && rb.velocity.y < 0)
@@ -306,7 +319,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region Ç½±ÚÌøÔ¾
+    #region Ç½ï¿½ï¿½ï¿½ï¿½Ô¾
     private void HandleWallJump()
     {
         if (IsTouchingWall && input.Jump)
@@ -316,7 +329,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ÉãÏñ»úËõ·Å
+    #region ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     private void HandleCameraZoom()
     {
         float scroll = Input.GetAxis("Mouse ScrollWheel");
@@ -328,7 +341,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ½ÇÂäÐÞÕý
+    #region ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     private void HandleCornerCorrection()
     {
         bool leftCorner = Physics2D.Raycast(transform.position + cornerRaycastOffset, Vector2.up, raycastLength, groundLayer) &&
@@ -365,7 +378,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ÊÇ·ñ¾ÙÉ¡
+    #region ï¿½Ç·ï¿½ï¿½É¡
     void HandleUmbralla()
     {
         if (CompareTag("PlayerA") && Input.GetKeyDown(KeyCode.Space))
@@ -376,7 +389,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ¸üÐÂ¶¯»­×´Ì¬
+    #region ï¿½ï¿½ï¿½Â¶ï¿½ï¿½ï¿½×´Ì¬
     private void UpdateAnimations()
     {
         if (isWallJumping)
@@ -406,7 +419,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ÊÜÉË
+    #region ï¿½ï¿½ï¿½ï¿½
     public void PlayerHurt(float damage)
     {
         if (!isInvinable)
@@ -428,7 +441,7 @@ public class PlayerController : HealthController
     }
     #endregion
 
-    #region ËÀÍö
+    #region ï¿½ï¿½ï¿½ï¿½
     public void Die()
     {
         isDie = true;

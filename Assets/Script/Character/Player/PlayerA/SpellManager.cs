@@ -12,6 +12,7 @@ public class SpellManager : MonoBehaviour
     //特殊对待滴一些魔法
     private bool isLightBallActive = false;//光球是否激活(设定：光球存在期间右键无法切换魔法 左键改为摧毁光球)(左键摧毁光球代码在LightBallSpell中)
     private float originalAmbientIntensity;
+    public ManaBar manaBar;
 
     void Start()
     {
@@ -25,6 +26,7 @@ public class SpellManager : MonoBehaviour
     {
         currentMana += manaRegentRate * Time.deltaTime;//魔法回复
         currentMana = Mathf.Clamp(currentMana, 0, 100);//魔法值限制
+        manaBar.currentMana = currentMana;
         foreach (var spell in spells)//更新冷却时间
         {
             spell.UpdateCoolDown(Time.deltaTime);

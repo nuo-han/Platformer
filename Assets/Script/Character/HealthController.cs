@@ -9,16 +9,22 @@ public class HealthController : MonoBehaviour
     [HideInInspector] public bool isDie = false;
     [HideInInspector] public bool isHurt = false;
 
-    public Slider healthBar;
+    public HealthBar healthBar;
     private void Start()
     {
         if (healthBar != null)
+        {
+            healthBar.maxHealth=maxHealth;
             UpdateHealth();
+        }
     }
 
     public void UpdateHealth()
     {
-        healthBar.value = currentHealth / maxHealth;
+        //healthBar.value = currentHealth / maxHealth;
+
+
+        healthBar.currentHealth = currentHealth;
     }
 
     public void TakeDamage(float damage)

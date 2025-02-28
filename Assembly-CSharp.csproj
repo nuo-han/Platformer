@@ -73,9 +73,12 @@
     <Compile Include="Assets\Script\Trap\MovePlatform\MovePlatformController.cs" />
     <Compile Include="Assets\Script\Trap\MovePlatform\MovePlatform.cs" />
     <Compile Include="Assets\Script\Map\Green City\Boss\BossLaserPool.cs" />
+    <Compile Include="Assets\Script\UI\PropPanel.cs" />
     <Compile Include="Assets\Script\Map\Green City\SourRain.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerB\PlayerBShadowSprite.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerB\Defense.cs" />
+    <Compile Include="Assets\Script\UI\HealthBar.cs" />
+    <Compile Include="Assets\Script\UI\Pop_up.cs" />
     <Compile Include="Assets\Script\Map\Green City\Boss\BossExitGate.cs" />
     <Compile Include="Assets\Script\Trap\FragilePlatform\FragilePlatform.cs" />
     <Compile Include="Assets\Script\Trap\SpikeTrap\SpikeTrap.cs" />
@@ -86,6 +89,7 @@
     <Compile Include="Assets\Script\Trap\FragilePlatform\FragilePlatform_OneWay.cs" />
     <Compile Include="Assets\Script\Trap\Elevator\ElevatorController.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerController.cs" />
+    <Compile Include="Assets\Script\UI\ManaBar.cs" />
     <Compile Include="Assets\Script\Input\PlayerInput.cs" />
     <Compile Include="Assets\Script\Trap\ArrowTrap\ArrowTrap.cs" />
     <Compile Include="Assets\Script\Trap\TrapDoor\TrapDoor_CanClose.cs" />
@@ -111,7 +115,10 @@
     <Compile Include="Assets\Script\Map\Green City\Boss\LittleEnemy.cs" />
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemPlatformer\GolemPlatformer.cs" />
     <Compile Include="Assets\Script\Map\Green City\Boss\GreenCityBossController.cs" />
+    <Compile Include="Assets\Script\UI\UIManager.cs" />
+    <Compile Include="Assets\Script\UI\Pause.cs" />
     <Compile Include="Assets\Script\Map\Green City\SourPool.cs" />
+    <Compile Include="Assets\Script\UI\InteractionManager.cs" />
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Ceiling.cs" />
     <Compile Include="Assets\Script\Map\Green City\UmbrellaArea.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerA\Spell.cs" />
