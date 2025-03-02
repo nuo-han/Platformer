@@ -2940,7 +2940,11 @@ Transform:
   m_GameObject: {fileID: 336795159}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 184.18, y: 12.96, z: 0.14976776}
+=======
+  m_LocalPosition: {x: 183.7, y: 12.96, z: 0.14976776}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11135,10 +11139,13 @@ PrefabInstance:
       propertyPath: m_AnchorMin.x
       value: 1
       objectReference: {fileID: 0}
+<<<<<<< Updated upstream
     - target: {fileID: 7253548613156132475, guid: ccd0f4fad928d244fbc13e43b9755c62, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
       objectReference: {fileID: 0}
+=======
+>>>>>>> Stashed changes
     - target: {fileID: 7614751929038784440, guid: ccd0f4fad928d244fbc13e43b9755c62, type: 3}
       propertyPath: m_Pivot.x
       value: 0
