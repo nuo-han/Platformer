@@ -139,6 +139,7 @@ public class GreenCityBossController : HealthController
         isDie = true;
         anim.Play("Die");
         bossGateExitEventChannel.Broadcast();
+        Destroy(gameObject,1f);
     }
     #endregion
 

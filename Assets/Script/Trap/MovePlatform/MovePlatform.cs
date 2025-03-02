@@ -15,6 +15,11 @@ public class MovePlatform : MonoBehaviour
     Vector3 lastPosition;
     List<Rigidbody2D> rb = new List<Rigidbody2D>();
 
+    private void Start()
+    {
+        lastPosition = transform.position;
+    }
+
     private void FixedUpdate()
     {
         if (isActive)

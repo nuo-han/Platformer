@@ -60,89 +60,122 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.42f1c1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\Map\ExitWater.cs" />
     <Compile Include="Assets\Script\Character\WallDetector.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Wall.cs" />
-    <Compile Include="Assets\Script\Input\PlayerA\PlayerAInput.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example3\WaterSpring.cs" />
     <Compile Include="Assets\Script\Trap\ArrowTrap\Arrow.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerA\SpellManager.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Ceiling.cs" />
-    <Compile Include="Assets\Script\Trap\TrapDoor\TrapDoor_CannotClose.cs" />
+    <Compile Include="Assets\Script\Manager\GameEnd.cs" />
     <Compile Include="Assets\Script\Map\Green City\UmbrellaProtected.cs" />
-    <Compile Include="Assets\Script\Character\CornerDetector.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemPlayerDetector.cs" />
     <Compile Include="Assets\Script\Trap\MovePlatform\MovePlatformController.cs" />
-    <Compile Include="Assets\Script\Trap\MovePlatform\MovePlatform.cs" />
     <Compile Include="Assets\Script\Map\Green City\Boss\BossLaserPool.cs" />
-    <Compile Include="Assets\Script\UI\PropPanel.cs" />
-    <Compile Include="Assets\Script\Map\Green City\SourRain.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerB\PlayerBShadowSprite.cs" />
+    <Compile Include="Assets\Script\Map\Water.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example8\WaterShapeController.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example6\WaterSpring.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerB\Defense.cs" />
     <Compile Include="Assets\Script\UI\HealthBar.cs" />
     <Compile Include="Assets\Script\UI\Pop_up.cs" />
-    <Compile Include="Assets\Script\Map\Green City\Boss\BossExitGate.cs" />
-    <Compile Include="Assets\Script\Trap\FragilePlatform\FragilePlatform.cs" />
-    <Compile Include="Assets\Script\Trap\SpikeTrap\SpikeTrap.cs" />
-    <Compile Include="Assets\Script\Trap\SpikeTrap\SpikeTrap_Transmit.cs" />
     <Compile Include="Assets\Script\Map\Green City\Boss\BossEnemyPool.cs" />
-    <Compile Include="Assets\Script\Map\Green City\Boss\GreenMucus.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerB\MeleeAttack.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example1\WaterShapeController.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example7\WaterSpring.cs" />
+    <Compile Include="Assets\Script\Manager\Camera\CameraControlTrigger.cs" />
     <Compile Include="Assets\Script\Trap\FragilePlatform\FragilePlatform_OneWay.cs" />
-    <Compile Include="Assets\Script\Trap\Elevator\ElevatorController.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerController.cs" />
-    <Compile Include="Assets\Script\UI\ManaBar.cs" />
+    <Compile Include="Assets\Script\Manager\Camera\CameraManager.cs" />
     <Compile Include="Assets\Script\Input\PlayerInput.cs" />
     <Compile Include="Assets\Script\Trap\ArrowTrap\ArrowTrap.cs" />
-    <Compile Include="Assets\Script\Trap\TrapDoor\TrapDoor_CanClose.cs" />
     <Compile Include="Assets\Script\Trap\Elevator\Elevator.cs" />
     <Compile Include="Assets\Script\Trap\TrapDoor\DoorController.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Wall.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example10\WaterShapeController.cs" />
     <Compile Include="Assets\Script\Audio\SoundEffectsPlayer.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Wall.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example9\WaterSpring.cs" />
     <Compile Include="Assets\Script\Input\PlayerInputActions.cs" />
     <Compile Include="Assets\Script\Character\Enemy\EnemyController.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager.cs" />
-    <Compile Include="Assets\Script\Map\Platform_OneWay.cs" />
+    <Compile Include="Assets\Water2D\WaterSpring.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerA\Spell\Spellicon.cs" />
     <Compile Include="Assets\Script\Character\GroundDetector.cs" />
-<<<<<<< Updated upstream
-=======
     <Compile Include="Assets\Script\Character\Player\PlayerB\MovePF\MovePF.cs" />
-    <Compile Include="Assets\Script\Character\GetAbility\GetSpell.cs" />
->>>>>>> Stashed changes
-    <Compile Include="Assets\Script\Trap\MobilePlatform\MobilePlatformController.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Ground.cs" />
-    <Compile Include="Assets\Script\Trap\Elevator\ElevatorUnlockController.cs" />
-    <Compile Include="Assets\Script\Input\PlayerB\PlayerBInput.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerB\GouHuo\GouHuo.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example3\WaterShapeController.cs" />
+    <Compile Include="Assets\Water2D\FallingObject.cs" />
+    <Compile Include="Assets\Water2D\WaterExamples.cs" />
     <Compile Include="Assets\Script\Character\HealthController.cs" />
     <Compile Include="Assets\Script\Map\Green City\Boss\BossEnterGate.cs" />
     <Compile Include="Assets\Script\Map\Green City\ActiveVineSpread.cs" />
     <Compile Include="Assets\Script\Map\Green City\Boss\BossVineSpread.cs" />
     <Compile Include="Assets\Script\EventChannels\VoidEventChannel.cs" />
+    <Compile Include="Assets\Script\Character\GetAbility\GetAbility.cs" />
+    <Compile Include="Assets\Script\UI\Pause.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerA\Spell\LightAttackSpell.cs" />
+    <Compile Include="Assets\Script\Map\Green City\Boss\BossMucusPool.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example6\WaterShapeController.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Ground.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example10\WaterSpring.cs" />
+    <Compile Include="Assets\Script\Map\Green City\ActivedVine.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\Golem.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example8\WaterSpring.cs" />
+    <Compile Include="Assets\Script\Trap\SpikeTrap\SpikeTrapController.cs" />
+    <Compile Include="Assets\Script\Character\Enemy\PlayerDetecter.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Wall.cs" />
+    <Compile Include="Assets\Script\Input\PlayerA\PlayerAInput.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerB\GouHuo\PortalManager.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Ceiling.cs" />
+    <Compile Include="Assets\Script\Manager\ActiveScene.cs" />
+    <Compile Include="Assets\Script\Trap\TrapDoor\TrapDoor_CannotClose.cs" />
+    <Compile Include="Assets\Script\Character\CornerDetector.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemPlayerDetector.cs" />
+    <Compile Include="Assets\Script\Map\Green City\GreenCityObjectPool.cs" />
+    <Compile Include="Assets\Script\Trap\MovePlatform\MovePlatform.cs" />
+    <Compile Include="Assets\Script\UI\PropPanel.cs" />
+    <Compile Include="Assets\Script\Map\Green City\SourRain.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example5\WaterShapeController.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerB\PlayerBShadowSprite.cs" />
+    <Compile Include="Assets\Script\Map\Green City\Boss\BossExitGate.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example9\WaterShapeController.cs" />
+    <Compile Include="Assets\Script\Trap\FragilePlatform\FragilePlatform.cs" />
+    <Compile Include="Assets\Script\Trap\SpikeTrap\SpikeTrap.cs" />
+    <Compile Include="Assets\Script\Trap\SpikeTrap\SpikeTrap_Transmit.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example7\WaterShapeController.cs" />
+    <Compile Include="Assets\Script\Map\Green City\Boss\GreenMucus.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerB\Boss\FireBall.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerB\MeleeAttack.cs" />
+    <Compile Include="Assets\Script\Trap\Elevator\ElevatorController.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerController.cs" />
+    <Compile Include="Assets\Script\UI\ManaBar.cs" />
+    <Compile Include="Assets\Water2D\WaterShapeController.cs" />
+    <Compile Include="Assets\Script\Trap\TrapDoor\TrapDoor_CanClose.cs" />
+    <Compile Include="Assets\Script\Manager\Camera\CameraObjectFollow.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager.cs" />
+    <Compile Include="Assets\Script\Map\Platform_OneWay.cs" />
+    <Compile Include="Assets\Script\Character\GetAbility\GetSpell.cs" />
+    <Compile Include="Assets\Script\Trap\MobilePlatform\MobilePlatformController.cs" />
+    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Ground.cs" />
+    <Compile Include="Assets\Script\Input\PlayerB\PlayerBInput.cs" />
+    <Compile Include="Assets\Script\Trap\Elevator\ElevatorUnlockController.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerB\Boss\Boss.cs" />
     <Compile Include="Assets\Script\Trap\MobilePlatform\MobilePlatform.cs" />
     <Compile Include="Assets\Script\Map\Green City\Boss\LittleEnemy.cs" />
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemPlatformer\GolemPlatformer.cs" />
     <Compile Include="Assets\Script\Map\Green City\Boss\GreenCityBossController.cs" />
     <Compile Include="Assets\Script\UI\UIManager.cs" />
-    <Compile Include="Assets\Script\UI\Pause.cs" />
     <Compile Include="Assets\Script\Map\Green City\SourPool.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example1\WaterSpring.cs" />
     <Compile Include="Assets\Script\UI\InteractionManager.cs" />
-    <Compile Include="Assets\Script\Character\Player\PlayerA\Spell\LightAttackSpell.cs" />
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Ceiling.cs" />
     <Compile Include="Assets\Script\Map\Green City\UmbrellaArea.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example2\WaterShapeController.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerA\Spell.cs" />
-    <Compile Include="Assets\Script\Map\Green City\Boss\BossMucusPool.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\GolemTrap\GolemTrap_Ground.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerB\PlayerBShadowPool.cs" />
+    <Compile Include="Assets\Script\Manager\Camera\CameraZoneTrigger.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerA\Spell\LightBallSpell.cs" />
-    <Compile Include="Assets\Script\Map\Green City\ActivedVine.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerB\WeaponSystem.cs" />
-    <Compile Include="Assets\Script\LightCity\BOSS\Golem.cs" />
-    <Compile Include="Assets\Script\Trap\SpikeTrap\SpikeTrapController.cs" />
+    <Compile Include="Assets\Water2D\Examples\Example2\WaterSpring.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerA\Spell\LightHealingSpell.cs" />
-    <Compile Include="Assets\Script\Character\Enemy\PlayerDetecter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Cave Platformer Tileset\readme.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
@@ -1008,16 +1041,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.InternalAPIEditorBridge.001">
-      <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.UOS.Launcher.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.UOS.Launcher.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="PsdPlugin">
-      <HintPath>Library\ScriptAssemblies\PsdPlugin.dll</HintPath>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
@@ -1032,12 +1061,96 @@
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Burst">
-      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.2D.Common.Path.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Common.Path.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.PixelPerfect.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Aseprite.Common">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Aseprite.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Extras.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Collections">
+      <HintPath>Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.SpriteShape.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.PixelPerfect">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PPv2URPConverters">
+      <HintPath>Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Aseprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Aseprite.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="PsdPlugin">
+      <HintPath>Library\ScriptAssemblies\PsdPlugin.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
@@ -1046,6 +1159,10 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
@@ -1072,44 +1189,24 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.2D.PixelPerfect.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.2D.Aseprite.Common">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.Aseprite.Common.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEngineBridge.001">
-      <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.001">
+      <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.2D.Tilemap.Extras.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
+    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Timeline">
@@ -1124,20 +1221,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Collections">
-      <HintPath>Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+    <Reference Include="Unity.InternalAPIEditorBridge.001">
+      <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.2D.Psdimporter.Editor">
@@ -1148,16 +1237,8 @@
       <HintPath>Library\ScriptAssemblies\Unity.UOS.Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.2D.SpriteShape.Runtime">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.2D.PixelPerfect">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Mathematics">
@@ -1168,16 +1249,16 @@
       <HintPath>Library\ScriptAssemblies\Unity.2D.Common.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.2D.Aseprite.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.2D.Aseprite.Editor.dll</HintPath>
+    <Reference Include="Unity.Searcher.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">

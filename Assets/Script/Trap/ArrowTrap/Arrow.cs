@@ -5,27 +5,54 @@ using UnityEngine.Pool;
 
 public class Arrow : MonoBehaviour
 {
-    public float speed = 10.0f; // 箭矢的速度
-    public float lifetime = 5.0f; // 箭矢的存活时间
-    public float damage = 10.0f; // 箭矢的伤害值
-    public Vector2 direction=new Vector2(1,0); // 箭矢的飞行方向
-    private Rigidbody2D rb; // 箭矢的 Rigidbody2D 组件
+    public float speed = 10.0f;
+    public float lifetime = 5.0f;
+    public float damage = 10.0f;
+    public Vector2 direction = new Vector2(1, 0);
+    private Rigidbody2D rb;
+    private bool isReleased = false; // 新增标志�?
 
-    public ObjectPool<GameObject> arrowPool;//箭矢对象池
-    private void Start()
+    public ObjectPool<GameObject> arrowPool;
+
+    private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb.velocity = direction * speed; // 箭矢沿右方向飞行
-        Destroy(gameObject, lifetime); // 设置箭矢的存活时间
+        Initialize();
     }
+
+    public void Initialize()
+    {
+        rb.velocity = direction * speed;
+        // 替换 Destroy，使�? Invoke 延迟回收
+        Invoke(nameof(ReleaseArrow), lifetime);
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("PlayerA") || collision.CompareTag("PlayerB"))
         {
-            // 玩家受到伤害
             collision.GetComponent<PlayerController>().PlayerHurt(damage);
         }
 
-        arrowPool.Release(gameObject); // 箭矢碰撞后销毁
+        CancelInvoke(nameof(ReleaseArrow)); // 取消延迟回收
+        ReleaseArrow(); // 立即回收
+    }
+
+    private void ReleaseArrow()
+    {
+        if (!isReleased && arrowPool != null)
+        {
+            isReleased = true;
+            arrowPool.Release(gameObject);
+        }
+    }
+
+    public void ResetState()
+    {
+        isReleased = false;
+        if(rb==null) rb = GetComponent<Rigidbody2D>();
+        rb.velocity = direction * speed;
+        CancelInvoke(nameof(ReleaseArrow));
+        Invoke(nameof(ReleaseArrow), lifetime);
     }
 }

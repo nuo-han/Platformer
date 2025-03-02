@@ -27,6 +27,7 @@ public class ActivedVine : MonoBehaviour
         PlayerController player;
         if (collision.TryGetComponent<PlayerController>(out player))
         {
+            player.canCornerCorrect = false;
             player.EnterClimb();
         }
     }
@@ -36,6 +37,7 @@ public class ActivedVine : MonoBehaviour
         PlayerController player;
         if (collision.TryGetComponent<PlayerController>(out player))
         {
+            player.canCornerCorrect = true;
             player.ExitClimb();
         }
     }

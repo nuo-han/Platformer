@@ -7,7 +7,7 @@ public class SourPool : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         PlayerController player;
-        if(TryGetComponent<PlayerController>(out player))
+        if(collision.TryGetComponent<PlayerController>(out player))
         {
             player.TakeDamage(100);
         }

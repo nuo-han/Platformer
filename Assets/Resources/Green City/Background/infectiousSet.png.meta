@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -218,6 +218,27 @@ TextureImporter:
       bones: []
       spriteID: e754d515055b45c4794469e51f98da92
       internalID: -1932293532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: infectiousSet_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32af5aed2375c8448e981c9b0584f93
+      internalID: 1537707550
       vertices: []
       indices: 
       edges: []
@@ -1289,27 +1310,6 @@ TextureImporter:
       bones: []
       spriteID: e6b51ca021e5773428edd6e5418f621e
       internalID: -1977413462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: infectiousSet_6
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 192
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 069d78dd00f98bc4395510edeaf90ffa
-      internalID: 1537707550
       vertices: []
       indices: 
       edges: []

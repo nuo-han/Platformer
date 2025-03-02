@@ -203,6 +203,7 @@ MonoBehaviour:
   selectedSpellIndex: 0
   currentMana: 100
   manaRegentRate: 10
+  manaBar: {fileID: 0}
 --- !u!114 &3086613964001420434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -215,7 +216,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f63dc72a56d07f47998c55d530dd8a4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpInputBufferTime: 0.5
 --- !u!114 &1055343466940377800
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -230,32 +230,48 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHealth: 100
   maxHealth: 100
+  currentEnegy: 0
+  maxEnegy: 0
   isDie: 0
   isHurt: 0
   healthBar: {fileID: 0}
+  enegyBar: {fileID: 0}
+  groundDetector: []
+  enegyDecrease: 10
+  enegyIncreaseBuffer: 1
   walkSpeed: 5
   runSpeed: 7
   crouchSpeed: 3
   dashTime: 0.2
   dashSpeed: 10
   dashCoolDown: 2
+  dashJumpForce: 8
+  activeDash: 0
   jumpForce: 16
   airJumpForce: 16
   coyoteTime: 0.1
+  jumpBufferTime: 0.1
+  activeAirJump: 0
   climbSlipSpeed: 3
   wallJumpForce: 10
   wallJumpControlDelay: 0.2
-  jumpBufferTime: 0.1
+  activeWallJump: 0
+  canClimb: 0
   raycastLength: 0.7
   cornerRaycastOffset: {x: 0.7, y: 0, z: 0}
   innerRaycastOffset: {x: 0.25, y: 0, z: 0}
   groundLayer:
     serializedVersion: 2
     m_Bits: 512
+  canCornerCorrect: 1
   virtualCamera: {fileID: 0}
-  scrollSpeed: 1
-  minCameraSize: 1
-  maxCameraSize: 20
+  cameraFollow: {fileID: 0}
+  activeUseUmbrella: 0
+  isHaveUmbrella: 0
+  umbrella: {fileID: 0}
+  isInWater: 0
+  activeBreath: 0
+  invincibleTime: 1
 --- !u!50 &3137656130231678071
 Rigidbody2D:
   serializedVersion: 4
@@ -324,7 +340,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
