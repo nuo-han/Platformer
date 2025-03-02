@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class Golem : MonoBehaviour
+public class Golem : EnemyController
 {
     public bool isRevive=false;
     public bool inComa=false;
@@ -17,8 +17,12 @@ public class Golem : MonoBehaviour
     public GameObject playerDetector;
     public GolemTrapManager currentTrapManager;
     public List<GolemTrapManager> TrapManagers = new List<GolemTrapManager>();
-    public Collider2D attackRangeCollider;
-    public GameObject platform;
+    public Collider2D attackRangeCollider_Right;
+    public Collider2D attackRangeCollider_Left;
+    public GameObject platform1;
+    public GameObject TrapPlatformController;
+    public GameObject platform2;
+    public GameObject PanCamara;
     private bool isMoving = false;
     private bool isAttacking = false;
     private Transform player;
@@ -70,11 +74,17 @@ public class Golem : MonoBehaviour
     }
     public void Attack()
     {
-        attackRangeCollider.enabled = true;
+        if(sr.flipX)
+            attackRangeCollider_Left.enabled = true;
+        else 
+            attackRangeCollider_Right.enabled = true;
     }
     public void StopAttack()
     {
-        attackRangeCollider.enabled = false;
+        if (sr.flipX)
+            attackRangeCollider_Left.enabled = false;
+        else
+            attackRangeCollider_Right.enabled = false;
     }
     public void Attack_Trap()
     {
@@ -99,7 +109,7 @@ public class Golem : MonoBehaviour
     { 
         inComa = false;
     }
-    public void TakeDamage(float damage)
+    public override void TakeDamage(float damage)
     {
         if (!inComa)
         {
@@ -114,4 +124,10 @@ public class Golem : MonoBehaviour
             anim.Play("Death");
         }
     }
+    public void BreakPlatform1()
+    { platform1.SetActive(false);
+        TrapPlatformController.SetActive(false);
+    }
+    public void BreakPlatform2()
+    { platform2.SetActive(false); }
 }

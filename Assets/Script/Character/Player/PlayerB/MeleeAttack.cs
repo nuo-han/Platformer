@@ -5,14 +5,14 @@ using UnityEngine.TextCore.Text;
 
 public class MeleeAttack : MonoBehaviour
 {
-    [Header("½üÕ½¹¥»÷")]
+    [Header("ï¿½ï¿½Õ½ï¿½ï¿½ï¿½ï¿½")]
     public bool isMeleeAttack;
-    public float meleeAttackDamage;//½üÕ½¹¥»÷ÉËº¦
-    public Vector2 attackSize = new Vector2(1f, 1f);//¹¥»÷·¶Î§µÄ³ß´ç
-    public float offsetX = 1f;//XÖáµÄÆ«ÒÆÁ¿
-    public float offsetY = 1f;//YÖáµÄÆ«ÒÆÁ¿
-    public LayerMask enemyLayer;//±íÊ¾µÐÈËÍ¼²ã
-    public LayerMask destructibleLayer;//±íÊ¾¿ÉÆÆ»µÎïÆ·Í¼²ã
+    public float meleeAttackDamage;//ï¿½ï¿½Õ½ï¿½ï¿½ï¿½ï¿½ï¿½Ëºï¿½
+    public Vector2 attackSize = new Vector2(1f, 1f);//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î§ï¿½Ä³ß´ï¿½
+    public float offsetX = 1f;//Xï¿½ï¿½ï¿½Æ«ï¿½ï¿½ï¿½ï¿½
+    public float offsetY = 1f;//Yï¿½ï¿½ï¿½Æ«ï¿½ï¿½ï¿½ï¿½
+    public LayerMask enemyLayer;//ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½Í¼ï¿½ï¿½
+    public LayerMask destructibleLayer;//ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½Æ»ï¿½ï¿½ï¿½Æ·Í¼ï¿½ï¿½
     private Vector2 AttackAreaPos;
 
     Rigidbody2D rb;
@@ -30,10 +30,10 @@ public class MeleeAttack : MonoBehaviour
 
     void MeleeAttackAnimEvent()
     {
-        //ÖÐÐÄÆ«ÒÆÁ¿
+        //ï¿½ï¿½ï¿½ï¿½Æ«ï¿½ï¿½ï¿½ï¿½
         AttackAreaPos = transform.position;
 
-        //ÊÇ·ñ·­×ª
+        //ï¿½Ç·ï¿½×ª
         offsetX = sr.flipX ? -Mathf.Abs(offsetX) : Mathf.Abs(offsetX);
 
         AttackAreaPos.x += offsetX;
@@ -47,7 +47,7 @@ public class MeleeAttack : MonoBehaviour
         }
     }
 
-    //»æÍ¼ÓÃÓÚ²âÊÔ
+    //ï¿½ï¿½Í¼ï¿½ï¿½ï¿½Ú²ï¿½ï¿½ï¿½
     private void OnDrawGizmosSelected()
     {
 

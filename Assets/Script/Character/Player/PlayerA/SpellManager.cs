@@ -13,6 +13,9 @@ public class SpellManager : MonoBehaviour
     private bool isLightBallActive = false;//光球是否激活(设定：光球存在期间右键无法切换魔法 左键改为摧毁光球)(左键摧毁光球代码在LightBallSpell中)
     private float originalAmbientIntensity;
     public ManaBar manaBar;
+    //public Spell LightBallSpell;
+    //public Spell LightHealingSpell;
+    //public Spell LightAttackSpell;
 
     void Start()
     {

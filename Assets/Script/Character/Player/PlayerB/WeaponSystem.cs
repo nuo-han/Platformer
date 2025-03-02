@@ -6,19 +6,19 @@ using System;
 
 public class WeaponSystem : MonoBehaviour
 {
-    public GameObject[] weapons; // ËùÓÐÎäÆ÷Ô¤ÖÆ¼þµÄÊý×é
+    public GameObject[] weapons; // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¤ï¿½Æ¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
     private int currentWeaponIndex = 0;
 
     void Start()
     {
-        // ³õÊ¼»¯Ê±½ûÓÃËùÓÐÎäÆ÷£¬¼¤»îµÚÒ»¸öÎäÆ÷
+        // ï¿½ï¿½Ê¼ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         SetAllWeaponsInactive();
         SwitchWeapon(currentWeaponIndex);
     }
 
     void Update()
     {
-        // Ê¹ÓÃÊý×Ö¼üÇÐ»»
+        // Ê¹ï¿½ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½Ð»ï¿½
         for (int i = 0; i < weapons.Length; i++)
         {
             if (Input.GetKeyDown(KeyCode.Alpha1 + i))

@@ -101,7 +101,13 @@
     <Compile Include="Assets\Script\Character\Enemy\EnemyController.cs" />
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager.cs" />
     <Compile Include="Assets\Script\Map\Platform_OneWay.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerA\Spell\Spellicon.cs" />
     <Compile Include="Assets\Script\Character\GroundDetector.cs" />
+<<<<<<< Updated upstream
+=======
+    <Compile Include="Assets\Script\Character\Player\PlayerB\MovePF\MovePF.cs" />
+    <Compile Include="Assets\Script\Character\GetAbility\GetSpell.cs" />
+>>>>>>> Stashed changes
     <Compile Include="Assets\Script\Trap\MobilePlatform\MobilePlatformController.cs" />
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Ground.cs" />
     <Compile Include="Assets\Script\Trap\Elevator\ElevatorUnlockController.cs" />
@@ -119,6 +125,7 @@
     <Compile Include="Assets\Script\UI\Pause.cs" />
     <Compile Include="Assets\Script\Map\Green City\SourPool.cs" />
     <Compile Include="Assets\Script\UI\InteractionManager.cs" />
+    <Compile Include="Assets\Script\Character\Player\PlayerA\Spell\LightAttackSpell.cs" />
     <Compile Include="Assets\Script\LightCity\BOSS\GolemTrapManager\GolemTrapManager_Ceiling.cs" />
     <Compile Include="Assets\Script\Map\Green City\UmbrellaArea.cs" />
     <Compile Include="Assets\Script\Character\Player\PlayerA\Spell.cs" />

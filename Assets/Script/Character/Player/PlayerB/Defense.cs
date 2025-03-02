@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class ShieldController : MonoBehaviour
 {
-    [Header("¶ÜÅÆ·ÀÓù")]
-    [SerializeField] private float shieldRange = 1.5f; // ¶ÜÅÆ·ÀÓù°ë¾¶
+    [Header("ï¿½ï¿½ï¿½Æ·ï¿½ï¿½ï¿½")]
+    [SerializeField] private float shieldRange = 1.5f; // ï¿½ï¿½ï¿½Æ·ï¿½ï¿½ï¿½ï¿½ë¾¶
     [SerializeField] private LayerMask enemyLayer;    
 
     private Transform playerTransform;
@@ -26,7 +26,7 @@ public class ShieldController : MonoBehaviour
         UpdateFacingDirection();
     }
 
-    // ÊµÊ±¸üÐÂ½ÇÉ«³¯Ïò
+    // ÊµÊ±ï¿½ï¿½ï¿½Â½ï¿½É«ï¿½ï¿½ï¿½ï¿½
     private void UpdateFacingDirection()
     {
         float horizontal = Input.GetAxisRaw("Horizontal");
@@ -36,13 +36,13 @@ public class ShieldController : MonoBehaviour
         }
     }
 
-    // ·ÀÓù¼ì²â£¨ÓÉ¹¥»÷ÏµÍ³µ÷ÓÃ£©
+    // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½â£¨ï¿½É¹ï¿½ï¿½ï¿½ÏµÍ³ï¿½ï¿½ï¿½Ã£ï¿½
     public bool CheckDefense(Vector2 attackOrigin)
     {
-        // ¼ÆËãµÐÈËÏà¶ÔÓÚÍæ¼ÒµÄ·½Ïò
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ÒµÄ·ï¿½ï¿½ï¿½
         Vector2 toEnemy = (attackOrigin - (Vector2)playerTransform.position).normalized;
 
-        // ·½Ïò¼ì²â + ¾àÀë¼ì²â
+        // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ + ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         return Vector2.Dot(toEnemy, GetshieldDirection()) > 0.7f &&
                Vector2.Distance(playerTransform.position, attackOrigin) < shieldRange;
     }
